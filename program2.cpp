@@ -174,17 +174,12 @@ int main(int argc, char* argv[]) {
         long time;
         fscanf(outFiles[p], "%ld", &time);
         process_time_ms[p] = time;
+	fcloseall();
     }
 
     // 자식 프로세스의 표준입출력 파일을 삭제
-    for(int p = 0 ; p < total_process_num ; p++){
-        char inputText[20];
-        sprintf(inputText, "./inputPs%d.txt", p);
-        char outputText[20];
-        sprintf(outputText, "./outputPs%d.txt", p);
-        remove(inputText);
-        remove(outputText);
-    }
+    system("rm -rf inputPs*");
+    system("rm -rf outputPs*");
 
     // 자식 프로세스의 수행시간 출력
     for(int p = 0 ; p < total_process_num ; p++){

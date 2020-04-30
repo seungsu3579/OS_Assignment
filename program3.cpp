@@ -8,7 +8,7 @@
 
 using namespace std;
 
-mutex sync;                  // 동기화를 위한 mutex 생성
+mutex syn;                  // 동기화를 위한 mutex 생성
 
 //필터와 이미지를 저장할 Image클래스 정의
 class Image{
@@ -160,9 +160,9 @@ void *calcImageThread(void* arg){
     // 합성곱 연산의 결과를 차원을 1차원으로 줄이고 Relu 적용 
     // 사전에 할당해놓은 힙메모리에 저장
     for(int f = args->filter_partitions[args->th_num] ; f < args->filter_partitions[args->th_num + 1] ; f++){
-        sync.lock();        // mutex lock 
+        syn.lock();        // mutex lock 
         args->sub_answers[f] = cnnImage[f].convolution(args->sub_answers[f]);
-        sync.unlock();      // mutex unlock
+        syn.unlock();      // mutex unlock
     }
 
     // 스레드 시간 측정 종료
