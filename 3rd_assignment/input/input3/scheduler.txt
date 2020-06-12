@@ -1,0 +1,4320 @@
+[1 Cycle] Scheduled Process: 0 program0
+Running Process: Process#0 running code program0 line 1(op 4, arg 3)
+RunQueue: Empty
+SleepList: 0(program0)
+IOWait List: Empty
+
+[2 Cycle] Scheduled Process: None
+Running Process: None
+RunQueue: Empty
+SleepList: 0(program0)
+IOWait List: Empty
+
+[3 Cycle] Scheduled Process: None
+Running Process: None
+RunQueue: Empty
+SleepList: 0(program0)
+IOWait List: Empty
+
+[4 Cycle] Scheduled Process: 0 program0
+Running Process: Process#0 running code program0 line 2(op 3, arg 0)
+RunQueue: Empty
+SleepList: Empty
+IOWait List: Empty
+
+[5 Cycle] Scheduled Process: None
+Running Process: Process#0 running code program0 line 3(op 3, arg 0)
+RunQueue: Empty
+SleepList: Empty
+IOWait List: Empty
+
+[6 Cycle] Scheduled Process: None
+Running Process: Process#0 running code program0 line 4(op 3, arg 0)
+RunQueue: Empty
+SleepList: Empty
+IOWait List: Empty
+
+[7 Cycle] Scheduled Process: None
+Running Process: Process#0 running code program0 line 5(op 3, arg 0)
+RunQueue: Empty
+SleepList: Empty
+IOWait List: Empty
+
+[8 Cycle] Scheduled Process: None
+Running Process: Process#0 running code program0 line 6(op 3, arg 0)
+RunQueue: Empty
+SleepList: Empty
+IOWait List: Empty
+
+[9 Cycle] Scheduled Process: None
+Running Process: Process#0 running code program0 line 7(op 3, arg 0)
+RunQueue: Empty
+SleepList: Empty
+IOWait List: Empty
+
+[10 Cycle] Scheduled Process: None
+Running Process: Process#0 running code program0 line 8(op 3, arg 0)
+RunQueue: Empty
+SleepList: Empty
+IOWait List: Empty
+
+[11 Cycle] Scheduled Process: None
+Running Process: Process#0 running code program0 line 9(op 3, arg 0)
+RunQueue: Empty
+SleepList: Empty
+IOWait List: Empty
+
+[12 Cycle] Scheduled Process: None
+Running Process: Process#0 running code program0 line 10(op 3, arg 0)
+RunQueue: 1(program1)
+SleepList: Empty
+IOWait List: Empty
+
+[13 Cycle] Scheduled Process: None
+Running Process: Process#0 running code program0 line 11(op 3, arg 0)
+RunQueue: 1(program1)
+SleepList: Empty
+IOWait List: Empty
+
+[14 Cycle] Scheduled Process: None
+Running Process: Process#0 running code program0 line 12(op 4, arg 6)
+RunQueue: 1(program1)
+SleepList: 0(program0)
+IOWait List: Empty
+
+[15 Cycle] Scheduled Process: 1 program1
+Running Process: Process#1 running code program1 line 1(op 4, arg 10)
+RunQueue: Empty
+SleepList: 0(program0)1(program1)
+IOWait List: Empty
+
+[16 Cycle] Scheduled Process: None
+Running Process: None
+RunQueue: Empty
+SleepList: 0(program0)1(program1)
+IOWait List: Empty
+
+[17 Cycle] Scheduled Process: None
+Running Process: None
+RunQueue: Empty
+SleepList: 0(program0)1(program1)
+IOWait List: Empty
+
+[18 Cycle] Scheduled Process: None
+Running Process: None
+RunQueue: Empty
+SleepList: 0(program0)1(program1)
+IOWait List: Empty
+
+[19 Cycle] Scheduled Process: None
+Running Process: None
+RunQueue: Empty
+SleepList: 0(program0)1(program1)
+IOWait List: Empty
+
+[20 Cycle] Scheduled Process: 0 program0
+Running Process: Process#0 running code program0 line 13(op 3, arg 0)
+RunQueue: Empty
+SleepList: 1(program1)
+IOWait List: Empty
+
+[21 Cycle] Scheduled Process: None
+Running Process: Process#0 running code program0 line 14(op 3, arg 0)
+RunQueue: Empty
+SleepList: 1(program1)
+IOWait List: Empty
+
+[22 Cycle] Scheduled Process: None
+Running Process: Process#0 running code program0 line 15(op 3, arg 0)
+RunQueue: Empty
+SleepList: 1(program1)
+IOWait List: Empty
+
+[23 Cycle] Scheduled Process: None
+Running Process: Process#0 running code program0 line 16(op 3, arg 0)
+RunQueue: Empty
+SleepList: 1(program1)
+IOWait List: Empty
+
+[24 Cycle] Scheduled Process: None
+Running Process: Process#0 running code program0 line 17(op 3, arg 0)
+RunQueue: Empty
+SleepList: 1(program1)
+IOWait List: Empty
+
+[25 Cycle] Scheduled Process: 1 program1
+Running Process: Process#1 running code program1 line 2(op 3, arg 0)
+RunQueue: 2(program2)0(program0)
+SleepList: Empty
+IOWait List: Empty
+
+[26 Cycle] Scheduled Process: None
+Running Process: Process#1 running code program1 line 3(op 3, arg 0)
+RunQueue: 2(program2)0(program0)
+SleepList: Empty
+IOWait List: Empty
+
+[27 Cycle] Scheduled Process: None
+Running Process: Process#1 running code program1 line 4(op 3, arg 0)
+RunQueue: 2(program2)0(program0)
+SleepList: Empty
+IOWait List: Empty
+
+[28 Cycle] Scheduled Process: None
+Running Process: Process#1 running code program1 line 5(op 3, arg 0)
+RunQueue: 2(program2)0(program0)3(program3)
+SleepList: Empty
+IOWait List: Empty
+
+[29 Cycle] Scheduled Process: None
+Running Process: Process#1 running code program1 line 6(op 3, arg 0)
+RunQueue: 2(program2)0(program0)3(program3)
+SleepList: Empty
+IOWait List: Empty
+
+[30 Cycle] Scheduled Process: None
+Running Process: Process#1 running code program1 line 7(op 3, arg 0)
+RunQueue: 2(program2)0(program0)3(program3)
+SleepList: Empty
+IOWait List: Empty
+
+[31 Cycle] Scheduled Process: None
+Running Process: Process#1 running code program1 line 8(op 3, arg 0)
+RunQueue: 2(program2)0(program0)3(program3)
+SleepList: Empty
+IOWait List: Empty
+
+[32 Cycle] Scheduled Process: None
+Running Process: Process#1 running code program1 line 9(op 3, arg 0)
+RunQueue: 2(program2)0(program0)3(program3)
+SleepList: Empty
+IOWait List: Empty
+
+[33 Cycle] Scheduled Process: None
+Running Process: Process#1 running code program1 line 10(op 3, arg 0)
+RunQueue: 2(program2)0(program0)3(program3)
+SleepList: Empty
+IOWait List: Empty
+
+[34 Cycle] Scheduled Process: None
+Running Process: Process#1 running code program1 line 11(op 3, arg 0)
+RunQueue: 2(program2)0(program0)3(program3)
+SleepList: Empty
+IOWait List: Empty
+
+[35 Cycle] Scheduled Process: None
+Running Process: Process#1 running code program1 line 12(op 4, arg 21)
+RunQueue: 2(program2)0(program0)3(program3)
+SleepList: 1(program1)
+IOWait List: Empty
+
+[36 Cycle] Scheduled Process: 2 program2
+Running Process: Process#2 running code program2 line 1(op 4, arg 9)
+RunQueue: 0(program0)3(program3)
+SleepList: 1(program1)2(program2)
+IOWait List: Empty
+
+[37 Cycle] Scheduled Process: 3 program3
+Running Process: Process#3 running code program3 line 1(op 4, arg 22)
+RunQueue: 0(program0)
+SleepList: 1(program1)2(program2)3(program3)
+IOWait List: Empty
+
+[38 Cycle] Scheduled Process: None
+Running Process: Process#0 running code program0 line 18(op 3, arg 0)
+RunQueue: Empty
+SleepList: 1(program1)2(program2)3(program3)
+IOWait List: Empty
+
+[39 Cycle] Scheduled Process: None
+Running Process: Process#0 running code program0 line 19(op 3, arg 0)
+RunQueue: 4(program4)
+SleepList: 1(program1)2(program2)3(program3)
+IOWait List: Empty
+
+[40 Cycle] Scheduled Process: None
+Running Process: Process#0 running code program0 line 20(op 3, arg 0)
+RunQueue: 4(program4)
+SleepList: 1(program1)2(program2)3(program3)
+IOWait List: Empty
+
+[41 Cycle] Scheduled Process: None
+Running Process: Process#0 running code program0 line 21(op 3, arg 0)
+RunQueue: 4(program4)
+SleepList: 1(program1)2(program2)3(program3)
+IOWait List: Empty
+
+[42 Cycle] Scheduled Process: None
+Running Process: Process#0 running code program0 line 22(op 3, arg 0)
+RunQueue: 4(program4)
+SleepList: 1(program1)2(program2)3(program3)
+IOWait List: Empty
+
+[43 Cycle] Scheduled Process: None
+Running Process: Process#0 running code program0 line 23(op 4, arg 8)
+RunQueue: 4(program4)
+SleepList: 1(program1)2(program2)3(program3)0(program0)
+IOWait List: Empty
+
+[44 Cycle] Scheduled Process: 4 program4
+Running Process: Process#4 running code program4 line 1(op 4, arg 13)
+RunQueue: Empty
+SleepList: 1(program1)2(program2)3(program3)0(program0)4(program4)
+IOWait List: Empty
+
+[45 Cycle] Scheduled Process: 2 program2
+Running Process: Process#2 running code program2 line 2(op 3, arg 0)
+RunQueue: Empty
+SleepList: 1(program1)3(program3)0(program0)4(program4)
+IOWait List: Empty
+
+[46 Cycle] Scheduled Process: None
+Running Process: Process#2 running code program2 line 3(op 3, arg 0)
+RunQueue: 5(program5)
+SleepList: 1(program1)3(program3)0(program0)4(program4)
+IOWait List: Empty
+
+[47 Cycle] Scheduled Process: None
+Running Process: Process#2 running code program2 line 4(op 3, arg 0)
+RunQueue: 5(program5)
+SleepList: 1(program1)3(program3)0(program0)4(program4)
+IOWait List: Empty
+
+[48 Cycle] Scheduled Process: None
+Running Process: Process#2 running code program2 line 5(op 3, arg 0)
+RunQueue: 5(program5)
+SleepList: 1(program1)3(program3)0(program0)4(program4)
+IOWait List: Empty
+
+[49 Cycle] Scheduled Process: None
+Running Process: Process#2 running code program2 line 6(op 4, arg 24)
+RunQueue: 5(program5)
+SleepList: 1(program1)3(program3)0(program0)4(program4)2(program2)
+IOWait List: Empty
+
+[50 Cycle] Scheduled Process: 5 program5
+Running Process: Process#5 running code program5 line 1(op 4, arg 17)
+RunQueue: Empty
+SleepList: 1(program1)3(program3)0(program0)4(program4)2(program2)5(program5)
+IOWait List: Empty
+
+[51 Cycle] Scheduled Process: 0 program0
+Running Process: Process#0 running code program0 line 24(op 3, arg 0)
+RunQueue: Empty
+SleepList: 1(program1)3(program3)4(program4)2(program2)5(program5)
+IOWait List: Empty
+
+[52 Cycle] Scheduled Process: None
+Running Process: Process#0 running code program0 line 25(op 3, arg 0)
+RunQueue: Empty
+SleepList: 1(program1)3(program3)4(program4)2(program2)5(program5)
+IOWait List: Empty
+
+[53 Cycle] Scheduled Process: None
+Running Process: Process#0 running code program0 line 26(op 3, arg 0)
+RunQueue: Empty
+SleepList: 1(program1)3(program3)4(program4)2(program2)5(program5)
+IOWait List: Empty
+
+[54 Cycle] Scheduled Process: None
+Running Process: Process#0 running code program0 line 27(op 3, arg 0)
+RunQueue: Empty
+SleepList: 1(program1)3(program3)4(program4)2(program2)5(program5)
+IOWait List: Empty
+
+[55 Cycle] Scheduled Process: None
+Running Process: Process#0 running code program0 line 28(op 3, arg 0)
+RunQueue: Empty
+SleepList: 1(program1)3(program3)4(program4)2(program2)5(program5)
+IOWait List: Empty
+
+[56 Cycle] Scheduled Process: None
+Running Process: Process#0 running code program0 line 29(op 3, arg 0)
+RunQueue: 1(program1)
+SleepList: 3(program3)4(program4)2(program2)5(program5)
+IOWait List: Empty
+
+[57 Cycle] Scheduled Process: 4 program4
+Running Process: Process#4 running code program4 line 2(op 3, arg 0)
+RunQueue: 1(program1)6(program6)0(program0)
+SleepList: 3(program3)2(program2)5(program5)
+IOWait List: Empty
+
+[58 Cycle] Scheduled Process: None
+Running Process: Process#4 running code program4 line 3(op 3, arg 0)
+RunQueue: 1(program1)6(program6)0(program0)
+SleepList: 3(program3)2(program2)5(program5)
+IOWait List: Empty
+
+[59 Cycle] Scheduled Process: None
+Running Process: Process#4 running code program4 line 4(op 4, arg 19)
+RunQueue: 1(program1)6(program6)0(program0)3(program3)
+SleepList: 2(program2)5(program5)4(program4)
+IOWait List: Empty
+
+[60 Cycle] Scheduled Process: 3 program3
+Running Process: Process#3 running code program3 line 2(op 3, arg 0)
+RunQueue: 1(program1)6(program6)0(program0)
+SleepList: 2(program2)5(program5)4(program4)
+IOWait List: Empty
+
+[61 Cycle] Scheduled Process: None
+Running Process: Process#3 running code program3 line 3(op 3, arg 0)
+RunQueue: 1(program1)6(program6)0(program0)
+SleepList: 2(program2)5(program5)4(program4)
+IOWait List: Empty
+
+[62 Cycle] Scheduled Process: None
+Running Process: Process#3 running code program3 line 4(op 3, arg 0)
+RunQueue: 1(program1)6(program6)0(program0)
+SleepList: 2(program2)5(program5)4(program4)
+IOWait List: Empty
+
+[63 Cycle] Scheduled Process: None
+Running Process: Process#3 running code program3 line 5(op 3, arg 0)
+RunQueue: 1(program1)6(program6)0(program0)
+SleepList: 2(program2)5(program5)4(program4)
+IOWait List: Empty
+
+[64 Cycle] Scheduled Process: None
+Running Process: Process#3 running code program3 line 6(op 3, arg 0)
+RunQueue: 1(program1)6(program6)0(program0)
+SleepList: 2(program2)5(program5)4(program4)
+IOWait List: Empty
+
+[65 Cycle] Scheduled Process: None
+Running Process: Process#3 running code program3 line 7(op 4, arg 6)
+RunQueue: 1(program1)6(program6)0(program0)
+SleepList: 2(program2)5(program5)4(program4)3(program3)
+IOWait List: Empty
+
+[66 Cycle] Scheduled Process: 6 program6
+Running Process: Process#6 running code program6 line 1(op 4, arg 25)
+RunQueue: 1(program1)0(program0)
+SleepList: 2(program2)5(program5)4(program4)3(program3)6(program6)
+IOWait List: Empty
+
+[67 Cycle] Scheduled Process: 5 program5
+Running Process: Process#5 running code program5 line 2(op 3, arg 0)
+RunQueue: 1(program1)0(program0)
+SleepList: 2(program2)4(program4)3(program3)6(program6)
+IOWait List: Empty
+
+[68 Cycle] Scheduled Process: None
+Running Process: Process#5 running code program5 line 3(op 3, arg 0)
+RunQueue: 1(program1)0(program0)7(program7)
+SleepList: 2(program2)4(program4)3(program3)6(program6)
+IOWait List: Empty
+
+[69 Cycle] Scheduled Process: None
+Running Process: Process#5 running code program5 line 4(op 3, arg 0)
+RunQueue: 1(program1)0(program0)7(program7)
+SleepList: 2(program2)4(program4)3(program3)6(program6)
+IOWait List: Empty
+
+[70 Cycle] Scheduled Process: None
+Running Process: Process#5 running code program5 line 5(op 3, arg 0)
+RunQueue: 1(program1)0(program0)7(program7)
+SleepList: 2(program2)4(program4)3(program3)6(program6)
+IOWait List: Empty
+
+[71 Cycle] Scheduled Process: None
+Running Process: Process#5 running code program5 line 6(op 3, arg 0)
+RunQueue: 1(program1)0(program0)7(program7)3(program3)
+SleepList: 2(program2)4(program4)6(program6)
+IOWait List: Empty
+
+[72 Cycle] Scheduled Process: None
+Running Process: Process#5 running code program5 line 7(op 3, arg 0)
+RunQueue: 1(program1)0(program0)7(program7)3(program3)
+SleepList: 2(program2)4(program4)6(program6)
+IOWait List: Empty
+
+[73 Cycle] Scheduled Process: None
+Running Process: Process#5 running code program5 line 8(op 3, arg 0)
+RunQueue: 1(program1)0(program0)7(program7)3(program3)2(program2)
+SleepList: 4(program4)6(program6)
+IOWait List: Empty
+
+[74 Cycle] Scheduled Process: None
+Running Process: Process#5 running code program5 line 9(op 3, arg 0)
+RunQueue: 1(program1)0(program0)7(program7)3(program3)2(program2)8(program8)
+SleepList: 4(program4)6(program6)
+IOWait List: Empty
+
+[75 Cycle] Scheduled Process: None
+Running Process: Process#5 running code program5 line 10(op 3, arg 0)
+RunQueue: 1(program1)0(program0)7(program7)3(program3)2(program2)8(program8)
+SleepList: 4(program4)6(program6)
+IOWait List: Empty
+
+[76 Cycle] Scheduled Process: None
+Running Process: Process#5 running code program5 line 11(op 3, arg 0)
+RunQueue: 1(program1)0(program0)7(program7)3(program3)2(program2)8(program8)
+SleepList: 4(program4)6(program6)
+IOWait List: Empty
+
+[77 Cycle] Scheduled Process: None
+Running Process: Process#5 running code program5 line 12(op 4, arg 14)
+RunQueue: 1(program1)0(program0)7(program7)3(program3)2(program2)8(program8)
+SleepList: 4(program4)6(program6)5(program5)
+IOWait List: Empty
+
+[78 Cycle] Scheduled Process: 4 program4
+Running Process: Process#4 running code program4 line 5(op 3, arg 0)
+RunQueue: 1(program1)0(program0)7(program7)3(program3)2(program2)8(program8)
+SleepList: 6(program6)5(program5)
+IOWait List: Empty
+
+[79 Cycle] Scheduled Process: None
+Running Process: Process#4 running code program4 line 6(op 3, arg 0)
+RunQueue: 1(program1)0(program0)7(program7)3(program3)2(program2)8(program8)
+SleepList: 6(program6)5(program5)
+IOWait List: Empty
+
+[80 Cycle] Scheduled Process: None
+Running Process: Process#4 running code program4 line 7(op 4, arg 19)
+RunQueue: 1(program1)0(program0)7(program7)3(program3)2(program2)8(program8)
+SleepList: 6(program6)5(program5)4(program4)
+IOWait List: Empty
+
+[81 Cycle] Scheduled Process: 2 program2
+Running Process: Process#2 running code program2 line 7(op 3, arg 0)
+RunQueue: 1(program1)0(program0)7(program7)3(program3)8(program8)
+SleepList: 6(program6)5(program5)4(program4)
+IOWait List: Empty
+
+[82 Cycle] Scheduled Process: None
+Running Process: Process#2 running code program2 line 8(op 3, arg 0)
+RunQueue: 1(program1)0(program0)7(program7)3(program3)8(program8)
+SleepList: 6(program6)5(program5)4(program4)
+IOWait List: Empty
+
+[83 Cycle] Scheduled Process: None
+Running Process: Process#2 running code program2 line 9(op 3, arg 0)
+RunQueue: 1(program1)0(program0)7(program7)3(program3)8(program8)
+SleepList: 6(program6)5(program5)4(program4)
+IOWait List: Empty
+
+[84 Cycle] Scheduled Process: None
+Running Process: Process#2 running code program2 line 10(op 3, arg 0)
+RunQueue: 1(program1)0(program0)7(program7)3(program3)8(program8)
+SleepList: 6(program6)5(program5)4(program4)
+IOWait List: Empty
+
+[85 Cycle] Scheduled Process: None
+Running Process: Process#2 running code program2 line 11(op 4, arg 19)
+RunQueue: 1(program1)0(program0)7(program7)3(program3)8(program8)
+SleepList: 6(program6)5(program5)4(program4)2(program2)
+IOWait List: Empty
+
+[86 Cycle] Scheduled Process: 3 program3
+Running Process: Process#3 running code program3 line 8(op 3, arg 0)
+RunQueue: 1(program1)0(program0)7(program7)8(program8)
+SleepList: 6(program6)5(program5)4(program4)2(program2)
+IOWait List: Empty
+
+[87 Cycle] Scheduled Process: None
+Running Process: Process#3 running code program3 line 9(op 3, arg 0)
+RunQueue: 1(program1)0(program0)7(program7)8(program8)9(program9)
+SleepList: 6(program6)5(program5)4(program4)2(program2)
+IOWait List: Empty
+
+[88 Cycle] Scheduled Process: None
+Running Process: Process#3 running code program3 line 10(op 3, arg 0)
+RunQueue: 1(program1)0(program0)7(program7)8(program8)9(program9)
+SleepList: 6(program6)5(program5)4(program4)2(program2)
+IOWait List: Empty
+
+[89 Cycle] Scheduled Process: None
+Running Process: Process#3 running code program3 line 11(op 3, arg 0)
+RunQueue: 1(program1)0(program0)7(program7)8(program8)9(program9)
+SleepList: 6(program6)5(program5)4(program4)2(program2)
+IOWait List: Empty
+
+[90 Cycle] Scheduled Process: None
+Running Process: Process#3 running code program3 line 12(op 3, arg 0)
+RunQueue: 1(program1)0(program0)7(program7)8(program8)9(program9)
+SleepList: 6(program6)5(program5)4(program4)2(program2)
+IOWait List: Empty
+
+[91 Cycle] Scheduled Process: None
+Running Process: Process#3 running code program3 line 13(op 4, arg 23)
+RunQueue: 1(program1)0(program0)7(program7)8(program8)9(program9)6(program6)5(program5)
+SleepList: 4(program4)2(program2)3(program3)
+IOWait List: Empty
+
+[92 Cycle] Scheduled Process: 6 program6
+Running Process: Process#6 running code program6 line 2(op 3, arg 0)
+RunQueue: 1(program1)0(program0)7(program7)8(program8)9(program9)5(program5)
+SleepList: 4(program4)2(program2)3(program3)
+IOWait List: Empty
+
+[93 Cycle] Scheduled Process: None
+Running Process: Process#6 running code program6 line 3(op 3, arg 0)
+RunQueue: 1(program1)0(program0)7(program7)8(program8)9(program9)5(program5)
+SleepList: 4(program4)2(program2)3(program3)
+IOWait List: Empty
+
+[94 Cycle] Scheduled Process: None
+Running Process: Process#6 running code program6 line 4(op 3, arg 0)
+RunQueue: 1(program1)0(program0)7(program7)8(program8)9(program9)5(program5)
+SleepList: 4(program4)2(program2)3(program3)
+IOWait List: Empty
+
+[95 Cycle] Scheduled Process: None
+Running Process: Process#6 running code program6 line 5(op 3, arg 0)
+RunQueue: 1(program1)0(program0)7(program7)8(program8)9(program9)5(program5)
+SleepList: 4(program4)2(program2)3(program3)
+IOWait List: Empty
+
+[96 Cycle] Scheduled Process: None
+Running Process: Process#6 running code program6 line 6(op 3, arg 0)
+RunQueue: 1(program1)0(program0)7(program7)8(program8)9(program9)5(program5)
+SleepList: 4(program4)2(program2)3(program3)
+IOWait List: Empty
+
+[97 Cycle] Scheduled Process: None
+Running Process: Process#6 running code program6 line 7(op 3, arg 0)
+RunQueue: 1(program1)0(program0)7(program7)8(program8)9(program9)5(program5)
+SleepList: 4(program4)2(program2)3(program3)
+IOWait List: Empty
+
+[98 Cycle] Scheduled Process: None
+Running Process: Process#6 running code program6 line 8(op 3, arg 0)
+RunQueue: 1(program1)0(program0)7(program7)8(program8)9(program9)5(program5)
+SleepList: 4(program4)2(program2)3(program3)
+IOWait List: Empty
+
+[99 Cycle] Scheduled Process: None
+Running Process: Process#6 running code program6 line 9(op 3, arg 0)
+RunQueue: 1(program1)0(program0)7(program7)8(program8)9(program9)5(program5)4(program4)
+SleepList: 2(program2)3(program3)
+IOWait List: Empty
+
+[100 Cycle] Scheduled Process: None
+Running Process: Process#6 running code program6 line 10(op 4, arg 19)
+RunQueue: 1(program1)0(program0)7(program7)8(program8)9(program9)5(program5)4(program4)
+SleepList: 2(program2)3(program3)6(program6)
+IOWait List: Empty
+
+[101 Cycle] Scheduled Process: 4 program4
+Running Process: Process#4 running code program4 line 8(op 3, arg 0)
+RunQueue: 1(program1)0(program0)7(program7)8(program8)9(program9)5(program5)
+SleepList: 2(program2)3(program3)6(program6)
+IOWait List: Empty
+
+[102 Cycle] Scheduled Process: None
+Running Process: Process#4 running code program4 line 9(op 3, arg 0)
+RunQueue: 1(program1)0(program0)7(program7)8(program8)9(program9)5(program5)
+SleepList: 2(program2)3(program3)6(program6)
+IOWait List: Empty
+
+[103 Cycle] Scheduled Process: None
+Running Process: Process#4 running code program4 line 10(op 4, arg 5)
+RunQueue: 1(program1)0(program0)7(program7)8(program8)9(program9)5(program5)
+SleepList: 2(program2)3(program3)6(program6)4(program4)
+IOWait List: Empty
+
+[104 Cycle] Scheduled Process: 2 program2
+Running Process: Process#2 running code program2 line 12(op 3, arg 0)
+RunQueue: 1(program1)0(program0)7(program7)8(program8)9(program9)5(program5)
+SleepList: 3(program3)6(program6)4(program4)
+IOWait List: Empty
+
+[105 Cycle] Scheduled Process: None
+Running Process: Process#2 running code program2 line 13(op 3, arg 0)
+RunQueue: 1(program1)0(program0)7(program7)8(program8)9(program9)5(program5)
+SleepList: 3(program3)6(program6)4(program4)
+IOWait List: Empty
+
+[106 Cycle] Scheduled Process: None
+Running Process: Process#2 running code program2 line 14(op 3, arg 0)
+RunQueue: 1(program1)0(program0)7(program7)8(program8)9(program9)5(program5)
+SleepList: 3(program3)6(program6)4(program4)
+IOWait List: Empty
+
+[107 Cycle] Scheduled Process: None
+Running Process: Process#2 running code program2 line 15(op 3, arg 0)
+RunQueue: 1(program1)0(program0)7(program7)8(program8)9(program9)5(program5)
+SleepList: 3(program3)6(program6)4(program4)
+IOWait List: Empty
+
+[108 Cycle] Scheduled Process: None
+Running Process: Process#2 running code program2 line 16(op 4, arg 5)
+RunQueue: 1(program1)0(program0)7(program7)8(program8)9(program9)5(program5)4(program4)
+SleepList: 3(program3)6(program6)2(program2)
+IOWait List: Empty
+
+[109 Cycle] Scheduled Process: 4 program4
+Running Process: Process#4 running code program4 line 11(op 3, arg 0)
+RunQueue: 1(program1)0(program0)7(program7)8(program8)9(program9)5(program5)
+SleepList: 3(program3)6(program6)2(program2)
+IOWait List: Empty
+
+[110 Cycle] Scheduled Process: None
+Running Process: Process#4 running code program4 line 12(op 3, arg 0)
+RunQueue: 1(program1)0(program0)7(program7)8(program8)9(program9)5(program5)
+SleepList: 3(program3)6(program6)2(program2)
+IOWait List: Empty
+
+[111 Cycle] Scheduled Process: None
+Running Process: Process#4 running code program4 line 13(op 4, arg 13)
+RunQueue: 1(program1)0(program0)7(program7)8(program8)9(program9)5(program5)
+SleepList: 3(program3)6(program6)2(program2)4(program4)
+IOWait List: Empty
+
+[112 Cycle] Scheduled Process: 7 program7
+Running Process: Process#7 running code program7 line 1(op 4, arg 4)
+RunQueue: 1(program1)0(program0)8(program8)9(program9)5(program5)
+SleepList: 3(program3)6(program6)2(program2)4(program4)7(program7)
+IOWait List: Empty
+
+[113 Cycle] Scheduled Process: 2 program2
+Running Process: Process#2 running code program2 line 17(op 3, arg 0)
+RunQueue: 1(program1)0(program0)8(program8)9(program9)5(program5)
+SleepList: 3(program3)6(program6)4(program4)7(program7)
+IOWait List: Empty
+
+[114 Cycle] Scheduled Process: None
+Running Process: Process#2 running code program2 line 18(op 3, arg 0)
+RunQueue: 1(program1)0(program0)8(program8)9(program9)5(program5)3(program3)
+SleepList: 6(program6)4(program4)7(program7)
+IOWait List: Empty
+
+[115 Cycle] Scheduled Process: None
+Running Process: Process#2 running code program2 line 19(op 3, arg 0)
+RunQueue: 1(program1)0(program0)8(program8)9(program9)5(program5)3(program3)
+SleepList: 6(program6)4(program4)7(program7)
+IOWait List: Empty
+
+[116 Cycle] Scheduled Process: 7 program7
+Running Process: Process#7 running code program7 line 2(op 3, arg 0)
+RunQueue: 1(program1)0(program0)8(program8)9(program9)5(program5)3(program3)2(program2)
+SleepList: 6(program6)4(program4)
+IOWait List: Empty
+
+[117 Cycle] Scheduled Process: None
+Running Process: Process#7 running code program7 line 3(op 3, arg 0)
+RunQueue: 1(program1)0(program0)8(program8)9(program9)5(program5)3(program3)2(program2)
+SleepList: 6(program6)4(program4)
+IOWait List: Empty
+
+[118 Cycle] Scheduled Process: None
+Running Process: Process#7 running code program7 line 4(op 4, arg 12)
+RunQueue: 1(program1)0(program0)8(program8)9(program9)5(program5)3(program3)2(program2)
+SleepList: 6(program6)4(program4)7(program7)
+IOWait List: Empty
+
+[119 Cycle] Scheduled Process: None
+Running Process: Process#2 running code program2 line 20(op 3, arg 0)
+RunQueue: 1(program1)0(program0)8(program8)9(program9)5(program5)3(program3)6(program6)
+SleepList: 4(program4)7(program7)
+IOWait List: Empty
+
+[120 Cycle] Scheduled Process: None
+Running Process: Process#2 running code program2 line 21(op 4, arg 5)
+RunQueue: 1(program1)0(program0)8(program8)9(program9)5(program5)3(program3)6(program6)
+SleepList: 4(program4)7(program7)2(program2)
+IOWait List: Empty
+
+[121 Cycle] Scheduled Process: 8 program8
+Running Process: Process#8 running code program8 line 1(op 4, arg 23)
+RunQueue: 1(program1)0(program0)9(program9)5(program5)3(program3)6(program6)
+SleepList: 4(program4)7(program7)2(program2)8(program8)
+IOWait List: Empty
+
+[122 Cycle] Scheduled Process: 9 program9
+Running Process: Process#9 running code program9 line 1(op 4, arg 24)
+RunQueue: 1(program1)0(program0)5(program5)3(program3)6(program6)
+SleepList: 4(program4)7(program7)2(program2)8(program8)9(program9)
+IOWait List: Empty
+
+[123 Cycle] Scheduled Process: 3 program3
+Running Process: Process#3 running code program3 line 14(op 3, arg 0)
+RunQueue: 1(program1)0(program0)5(program5)6(program6)
+SleepList: 4(program4)7(program7)2(program2)8(program8)9(program9)
+IOWait List: Empty
+
+[124 Cycle] Scheduled Process: 4 program4
+Running Process: Process#4 running code program4 line 14(op 3, arg 0)
+RunQueue: 1(program1)0(program0)5(program5)6(program6)3(program3)
+SleepList: 7(program7)2(program2)8(program8)9(program9)
+IOWait List: Empty
+
+[125 Cycle] Scheduled Process: None
+Running Process: Process#4 running code program4 line 15(op 3, arg 0)
+RunQueue: 1(program1)0(program0)5(program5)6(program6)3(program3)2(program2)
+SleepList: 7(program7)8(program8)9(program9)
+IOWait List: Empty
+
+[126 Cycle] Scheduled Process: None
+Running Process: Process#4 running code program4 line 16(op 4, arg 22)
+RunQueue: 1(program1)0(program0)5(program5)6(program6)3(program3)2(program2)
+SleepList: 7(program7)8(program8)9(program9)4(program4)
+IOWait List: Empty
+
+[127 Cycle] Scheduled Process: 2 program2
+Running Process: Process#2 running code program2 line 22(op 3, arg 0)
+RunQueue: 1(program1)0(program0)5(program5)6(program6)3(program3)
+SleepList: 7(program7)8(program8)9(program9)4(program4)
+IOWait List: Empty
+
+[128 Cycle] Scheduled Process: None
+Running Process: Process#2 running code program2 line 23(op 3, arg 0)
+RunQueue: 1(program1)0(program0)5(program5)6(program6)3(program3)
+SleepList: 7(program7)8(program8)9(program9)4(program4)
+IOWait List: Empty
+
+[129 Cycle] Scheduled Process: None
+Running Process: Process#2 running code program2 line 24(op 3, arg 0)
+RunQueue: 1(program1)0(program0)5(program5)6(program6)3(program3)
+SleepList: 7(program7)8(program8)9(program9)4(program4)
+IOWait List: Empty
+
+[130 Cycle] Scheduled Process: None
+Running Process: Process#2 running code program2 line 25(op 3, arg 0)
+RunQueue: 1(program1)0(program0)5(program5)6(program6)3(program3)7(program7)
+SleepList: 8(program8)9(program9)4(program4)
+IOWait List: Empty
+
+[131 Cycle] Scheduled Process: None
+Running Process: Process#2 running code program2 line 26(op 4, arg 11)
+RunQueue: 1(program1)0(program0)5(program5)6(program6)3(program3)7(program7)
+SleepList: 8(program8)9(program9)4(program4)2(program2)
+IOWait List: Empty
+
+[132 Cycle] Scheduled Process: 7 program7
+Running Process: Process#7 running code program7 line 5(op 3, arg 0)
+RunQueue: 1(program1)0(program0)5(program5)6(program6)3(program3)
+SleepList: 8(program8)9(program9)4(program4)2(program2)
+IOWait List: Empty
+
+[133 Cycle] Scheduled Process: None
+Running Process: Process#7 running code program7 line 6(op 3, arg 0)
+RunQueue: 1(program1)0(program0)5(program5)6(program6)3(program3)
+SleepList: 8(program8)9(program9)4(program4)2(program2)
+IOWait List: Empty
+
+[134 Cycle] Scheduled Process: None
+Running Process: Process#7 running code program7 line 7(op 4, arg 4)
+RunQueue: 1(program1)0(program0)5(program5)6(program6)3(program3)
+SleepList: 8(program8)9(program9)4(program4)2(program2)7(program7)
+IOWait List: Empty
+
+[135 Cycle] Scheduled Process: None
+Running Process: Process#3 running code program3 line 15(op 3, arg 0)
+RunQueue: 1(program1)0(program0)5(program5)6(program6)
+SleepList: 8(program8)9(program9)4(program4)2(program2)7(program7)
+IOWait List: Empty
+
+[136 Cycle] Scheduled Process: None
+Running Process: Process#3 running code program3 line 16(op 3, arg 0)
+RunQueue: 1(program1)0(program0)5(program5)6(program6)
+SleepList: 8(program8)9(program9)4(program4)2(program2)7(program7)
+IOWait List: Empty
+
+[137 Cycle] Scheduled Process: None
+Running Process: Process#3 running code program3 line 17(op 3, arg 0)
+RunQueue: 1(program1)0(program0)5(program5)6(program6)
+SleepList: 8(program8)9(program9)4(program4)2(program2)7(program7)
+IOWait List: Empty
+
+[138 Cycle] Scheduled Process: None
+Running Process: Process#3 running code program3 line 18(op 3, arg 0)
+RunQueue: 1(program1)0(program0)5(program5)6(program6)7(program7)
+SleepList: 8(program8)9(program9)4(program4)2(program2)
+IOWait List: Empty
+
+[139 Cycle] Scheduled Process: None
+Running Process: Process#3 running code program3 line 19(op 4, arg 10)
+RunQueue: 1(program1)0(program0)5(program5)6(program6)7(program7)
+SleepList: 8(program8)9(program9)4(program4)2(program2)3(program3)
+IOWait List: Empty
+
+[140 Cycle] Scheduled Process: 7 program7
+Running Process: Process#7 running code program7 line 8(op 3, arg 0)
+RunQueue: 1(program1)0(program0)5(program5)6(program6)
+SleepList: 8(program8)9(program9)4(program4)2(program2)3(program3)
+IOWait List: Empty
+
+[141 Cycle] Scheduled Process: None
+Running Process: Process#7 running code program7 line 9(op 3, arg 0)
+RunQueue: 1(program1)0(program0)5(program5)6(program6)
+SleepList: 8(program8)9(program9)4(program4)2(program2)3(program3)
+IOWait List: Empty
+
+[142 Cycle] Scheduled Process: None
+Running Process: Process#7 running code program7 line 10(op 4, arg 10)
+RunQueue: 1(program1)0(program0)5(program5)6(program6)2(program2)
+SleepList: 8(program8)9(program9)4(program4)3(program3)7(program7)
+IOWait List: Empty
+
+[143 Cycle] Scheduled Process: 2 program2
+Running Process: Process#2 running code program2 line 27(op 3, arg 0)
+RunQueue: 1(program1)0(program0)5(program5)6(program6)
+SleepList: 8(program8)9(program9)4(program4)3(program3)7(program7)
+IOWait List: Empty
+
+[144 Cycle] Scheduled Process: 8 program8
+Running Process: Process#8 running code program8 line 2(op 3, arg 0)
+RunQueue: 1(program1)0(program0)5(program5)6(program6)2(program2)
+SleepList: 9(program9)4(program4)3(program3)7(program7)
+IOWait List: Empty
+
+[145 Cycle] Scheduled Process: None
+Running Process: Process#8 running code program8 line 3(op 3, arg 0)
+RunQueue: 1(program1)0(program0)5(program5)6(program6)2(program2)
+SleepList: 9(program9)4(program4)3(program3)7(program7)
+IOWait List: Empty
+
+[146 Cycle] Scheduled Process: None
+Running Process: Process#8 running code program8 line 4(op 3, arg 0)
+RunQueue: 1(program1)0(program0)5(program5)6(program6)2(program2)9(program9)
+SleepList: 4(program4)3(program3)7(program7)
+IOWait List: Empty
+
+[147 Cycle] Scheduled Process: None
+Running Process: Process#8 running code program8 line 5(op 3, arg 0)
+RunQueue: 1(program1)0(program0)5(program5)6(program6)2(program2)9(program9)
+SleepList: 4(program4)3(program3)7(program7)
+IOWait List: Empty
+
+[148 Cycle] Scheduled Process: None
+Running Process: Process#8 running code program8 line 6(op 3, arg 0)
+RunQueue: 1(program1)0(program0)5(program5)6(program6)2(program2)9(program9)4(program4)
+SleepList: 3(program3)7(program7)
+IOWait List: Empty
+
+[149 Cycle] Scheduled Process: None
+Running Process: Process#8 running code program8 line 7(op 3, arg 0)
+RunQueue: 1(program1)0(program0)5(program5)6(program6)2(program2)9(program9)4(program4)3(program3)
+SleepList: 7(program7)
+IOWait List: Empty
+
+[150 Cycle] Scheduled Process: None
+Running Process: Process#8 running code program8 line 8(op 3, arg 0)
+RunQueue: 1(program1)0(program0)5(program5)6(program6)2(program2)9(program9)4(program4)3(program3)
+SleepList: 7(program7)
+IOWait List: Empty
+
+[151 Cycle] Scheduled Process: None
+Running Process: Process#8 running code program8 line 9(op 3, arg 0)
+RunQueue: 1(program1)0(program0)5(program5)6(program6)2(program2)9(program9)4(program4)3(program3)
+SleepList: 7(program7)
+IOWait List: Empty
+
+[152 Cycle] Scheduled Process: None
+Running Process: Process#8 running code program8 line 10(op 3, arg 0)
+RunQueue: 1(program1)0(program0)5(program5)6(program6)2(program2)9(program9)4(program4)3(program3)7(program7)
+SleepList: Empty
+IOWait List: Empty
+
+[153 Cycle] Scheduled Process: None
+Running Process: Process#8 running code program8 line 11(op 4, arg 8)
+RunQueue: 1(program1)0(program0)5(program5)6(program6)2(program2)9(program9)4(program4)3(program3)7(program7)
+SleepList: 8(program8)
+IOWait List: Empty
+
+[154 Cycle] Scheduled Process: 9 program9
+Running Process: Process#9 running code program9 line 2(op 3, arg 0)
+RunQueue: 1(program1)0(program0)5(program5)6(program6)2(program2)4(program4)3(program3)7(program7)
+SleepList: 8(program8)
+IOWait List: Empty
+
+[155 Cycle] Scheduled Process: None
+Running Process: Process#9 running code program9 line 3(op 3, arg 0)
+RunQueue: 1(program1)0(program0)5(program5)6(program6)2(program2)4(program4)3(program3)7(program7)
+SleepList: 8(program8)
+IOWait List: Empty
+
+[156 Cycle] Scheduled Process: None
+Running Process: Process#9 running code program9 line 4(op 3, arg 0)
+RunQueue: 1(program1)0(program0)5(program5)6(program6)2(program2)4(program4)3(program3)7(program7)
+SleepList: 8(program8)
+IOWait List: Empty
+
+[157 Cycle] Scheduled Process: None
+Running Process: Process#9 running code program9 line 5(op 3, arg 0)
+RunQueue: 1(program1)0(program0)5(program5)6(program6)2(program2)4(program4)3(program3)7(program7)
+SleepList: 8(program8)
+IOWait List: Empty
+
+[158 Cycle] Scheduled Process: None
+Running Process: Process#9 running code program9 line 6(op 3, arg 0)
+RunQueue: 1(program1)0(program0)5(program5)6(program6)2(program2)4(program4)3(program3)7(program7)
+SleepList: 8(program8)
+IOWait List: Empty
+
+[159 Cycle] Scheduled Process: None
+Running Process: Process#9 running code program9 line 7(op 3, arg 0)
+RunQueue: 1(program1)0(program0)5(program5)6(program6)2(program2)4(program4)3(program3)7(program7)
+SleepList: 8(program8)
+IOWait List: Empty
+
+[160 Cycle] Scheduled Process: None
+Running Process: Process#9 running code program9 line 8(op 3, arg 0)
+RunQueue: 1(program1)0(program0)5(program5)6(program6)2(program2)4(program4)3(program3)7(program7)
+SleepList: 8(program8)
+IOWait List: Empty
+
+[161 Cycle] Scheduled Process: None
+Running Process: Process#9 running code program9 line 9(op 3, arg 0)
+RunQueue: 1(program1)0(program0)5(program5)6(program6)2(program2)4(program4)3(program3)7(program7)8(program8)
+SleepList: Empty
+IOWait List: Empty
+
+[162 Cycle] Scheduled Process: None
+Running Process: Process#9 running code program9 line 10(op 3, arg 0)
+RunQueue: 1(program1)0(program0)5(program5)6(program6)2(program2)4(program4)3(program3)7(program7)8(program8)
+SleepList: Empty
+IOWait List: Empty
+
+[163 Cycle] Scheduled Process: None
+Running Process: Process#9 running code program9 line 11(op 3, arg 0)
+RunQueue: 1(program1)0(program0)5(program5)6(program6)2(program2)4(program4)3(program3)7(program7)8(program8)
+SleepList: Empty
+IOWait List: Empty
+
+[164 Cycle] Scheduled Process: None
+Running Process: Process#9 running code program9 line 12(op 3, arg 0)
+RunQueue: 1(program1)0(program0)5(program5)6(program6)2(program2)4(program4)3(program3)7(program7)8(program8)
+SleepList: Empty
+IOWait List: Empty
+
+[165 Cycle] Scheduled Process: None
+Running Process: Process#9 running code program9 line 13(op 3, arg 0)
+RunQueue: 1(program1)0(program0)5(program5)6(program6)2(program2)4(program4)3(program3)7(program7)8(program8)
+SleepList: Empty
+IOWait List: Empty
+
+[166 Cycle] Scheduled Process: None
+Running Process: Process#9 running code program9 line 14(op 4, arg 13)
+RunQueue: 1(program1)0(program0)5(program5)6(program6)2(program2)4(program4)3(program3)7(program7)8(program8)
+SleepList: 9(program9)
+IOWait List: Empty
+
+[167 Cycle] Scheduled Process: 7 program7
+Running Process: Process#7 running code program7 line 11(op 3, arg 0)
+RunQueue: 1(program1)0(program0)5(program5)6(program6)2(program2)4(program4)3(program3)8(program8)
+SleepList: 9(program9)
+IOWait List: Empty
+
+[168 Cycle] Scheduled Process: None
+Running Process: Process#7 running code program7 line 12(op 3, arg 0)
+RunQueue: 1(program1)0(program0)5(program5)6(program6)2(program2)4(program4)3(program3)8(program8)
+SleepList: 9(program9)
+IOWait List: Empty
+
+[169 Cycle] Scheduled Process: None
+Running Process: Process#7 running code program7 line 13(op 4, arg 12)
+RunQueue: 1(program1)0(program0)5(program5)6(program6)2(program2)4(program4)3(program3)8(program8)
+SleepList: 9(program9)7(program7)
+IOWait List: Empty
+
+[170 Cycle] Scheduled Process: 4 program4
+Running Process: Process#4 running code program4 line 17(op 3, arg 0)
+RunQueue: 1(program1)0(program0)5(program5)6(program6)2(program2)3(program3)8(program8)
+SleepList: 9(program9)7(program7)
+IOWait List: Empty
+
+[171 Cycle] Scheduled Process: None
+Running Process: Process#4 running code program4 line 18(op 3, arg 0)
+RunQueue: 1(program1)0(program0)5(program5)6(program6)2(program2)3(program3)8(program8)
+SleepList: 9(program9)7(program7)
+IOWait List: Empty
+
+[172 Cycle] Scheduled Process: None
+Running Process: Process#4 running code program4 line 19(op 4, arg 24)
+RunQueue: 1(program1)0(program0)5(program5)6(program6)2(program2)3(program3)8(program8)
+SleepList: 9(program9)7(program7)4(program4)
+IOWait List: Empty
+
+[173 Cycle] Scheduled Process: None
+Running Process: Process#2 running code program2 line 28(op 3, arg 0)
+RunQueue: 1(program1)0(program0)5(program5)6(program6)3(program3)8(program8)
+SleepList: 9(program9)7(program7)4(program4)
+IOWait List: Empty
+
+[174 Cycle] Scheduled Process: None
+Running Process: Process#2 running code program2 line 29(op 3, arg 0)
+RunQueue: 1(program1)0(program0)5(program5)6(program6)3(program3)8(program8)
+SleepList: 9(program9)7(program7)4(program4)
+IOWait List: Empty
+
+[175 Cycle] Scheduled Process: None
+Running Process: Process#2 running code program2 line 30(op 3, arg 0)
+RunQueue: 1(program1)0(program0)5(program5)6(program6)3(program3)8(program8)
+SleepList: 9(program9)7(program7)4(program4)
+IOWait List: Empty
+
+[176 Cycle] Scheduled Process: None
+Running Process: Process#2 running code program2 line 31(op 4, arg 24)
+RunQueue: 1(program1)0(program0)5(program5)6(program6)3(program3)8(program8)
+SleepList: 9(program9)7(program7)4(program4)2(program2)
+IOWait List: Empty
+
+[177 Cycle] Scheduled Process: 3 program3
+Running Process: Process#3 running code program3 line 20(op 3, arg 0)
+RunQueue: 1(program1)0(program0)5(program5)6(program6)8(program8)
+SleepList: 9(program9)7(program7)4(program4)2(program2)
+IOWait List: Empty
+
+[178 Cycle] Scheduled Process: None
+Running Process: Process#3 running code program3 line 21(op 3, arg 0)
+RunQueue: 1(program1)0(program0)5(program5)6(program6)8(program8)
+SleepList: 9(program9)7(program7)4(program4)2(program2)
+IOWait List: Empty
+
+[179 Cycle] Scheduled Process: None
+Running Process: Process#3 running code program3 line 22(op 3, arg 0)
+RunQueue: 1(program1)0(program0)5(program5)6(program6)8(program8)9(program9)
+SleepList: 7(program7)4(program4)2(program2)
+IOWait List: Empty
+
+[180 Cycle] Scheduled Process: None
+Running Process: Process#3 running code program3 line 23(op 3, arg 0)
+RunQueue: 1(program1)0(program0)5(program5)6(program6)8(program8)9(program9)
+SleepList: 7(program7)4(program4)2(program2)
+IOWait List: Empty
+
+[181 Cycle] Scheduled Process: None
+Running Process: Process#3 running code program3 line 24(op 3, arg 0)
+RunQueue: 1(program1)0(program0)5(program5)6(program6)8(program8)9(program9)7(program7)
+SleepList: 4(program4)2(program2)
+IOWait List: Empty
+
+[182 Cycle] Scheduled Process: None
+Running Process: Process#3 running code program3 line 25(op 4, arg 17)
+RunQueue: 1(program1)0(program0)5(program5)6(program6)8(program8)9(program9)7(program7)
+SleepList: 4(program4)2(program2)3(program3)
+IOWait List: Empty
+
+[183 Cycle] Scheduled Process: 7 program7
+Running Process: Process#7 running code program7 line 14(op 3, arg 0)
+RunQueue: 1(program1)0(program0)5(program5)6(program6)8(program8)9(program9)
+SleepList: 4(program4)2(program2)3(program3)
+IOWait List: Empty
+
+[184 Cycle] Scheduled Process: None
+Running Process: Process#7 running code program7 line 15(op 3, arg 0)
+RunQueue: 1(program1)0(program0)5(program5)6(program6)8(program8)9(program9)
+SleepList: 4(program4)2(program2)3(program3)
+IOWait List: Empty
+
+[185 Cycle] Scheduled Process: None
+Running Process: Process#7 running code program7 line 16(op 4, arg 23)
+RunQueue: 1(program1)0(program0)5(program5)6(program6)8(program8)9(program9)
+SleepList: 4(program4)2(program2)3(program3)7(program7)
+IOWait List: Empty
+
+[186 Cycle] Scheduled Process: 6 program6
+Running Process: Process#6 running code program6 line 11(op 3, arg 0)
+RunQueue: 1(program1)0(program0)5(program5)8(program8)9(program9)
+SleepList: 4(program4)2(program2)3(program3)7(program7)
+IOWait List: Empty
+
+[187 Cycle] Scheduled Process: None
+Running Process: Process#6 running code program6 line 12(op 3, arg 0)
+RunQueue: 1(program1)0(program0)5(program5)8(program8)9(program9)
+SleepList: 4(program4)2(program2)3(program3)7(program7)
+IOWait List: Empty
+
+[188 Cycle] Scheduled Process: None
+Running Process: Process#6 running code program6 line 13(op 3, arg 0)
+RunQueue: 1(program1)0(program0)5(program5)8(program8)9(program9)
+SleepList: 4(program4)2(program2)3(program3)7(program7)
+IOWait List: Empty
+
+[189 Cycle] Scheduled Process: None
+Running Process: Process#6 running code program6 line 14(op 3, arg 0)
+RunQueue: 1(program1)0(program0)5(program5)8(program8)9(program9)
+SleepList: 4(program4)2(program2)3(program3)7(program7)
+IOWait List: Empty
+
+[190 Cycle] Scheduled Process: None
+Running Process: Process#6 running code program6 line 15(op 3, arg 0)
+RunQueue: 1(program1)0(program0)5(program5)8(program8)9(program9)
+SleepList: 4(program4)2(program2)3(program3)7(program7)
+IOWait List: Empty
+
+[191 Cycle] Scheduled Process: None
+Running Process: Process#6 running code program6 line 16(op 3, arg 0)
+RunQueue: 1(program1)0(program0)5(program5)8(program8)9(program9)
+SleepList: 4(program4)2(program2)3(program3)7(program7)
+IOWait List: Empty
+
+[192 Cycle] Scheduled Process: None
+Running Process: Process#6 running code program6 line 17(op 3, arg 0)
+RunQueue: 1(program1)0(program0)5(program5)8(program8)9(program9)
+SleepList: 4(program4)2(program2)3(program3)7(program7)
+IOWait List: Empty
+
+[193 Cycle] Scheduled Process: None
+Running Process: Process#6 running code program6 line 18(op 3, arg 0)
+RunQueue: 1(program1)0(program0)5(program5)8(program8)9(program9)
+SleepList: 4(program4)2(program2)3(program3)7(program7)
+IOWait List: Empty
+
+[194 Cycle] Scheduled Process: None
+Running Process: Process#6 running code program6 line 19(op 4, arg 5)
+RunQueue: 1(program1)0(program0)5(program5)8(program8)9(program9)
+SleepList: 4(program4)2(program2)3(program3)7(program7)6(program6)
+IOWait List: Empty
+
+[195 Cycle] Scheduled Process: 8 program8
+Running Process: Process#8 running code program8 line 12(op 3, arg 0)
+RunQueue: 1(program1)0(program0)5(program5)9(program9)
+SleepList: 4(program4)2(program2)3(program3)7(program7)6(program6)
+IOWait List: Empty
+
+[196 Cycle] Scheduled Process: 4 program4
+Running Process: Process#4 running code program4 line 20(op 3, arg 0)
+RunQueue: 1(program1)0(program0)5(program5)9(program9)8(program8)
+SleepList: 2(program2)3(program3)7(program7)6(program6)
+IOWait List: Empty
+
+[197 Cycle] Scheduled Process: None
+Running Process: Process#4 running code program4 line 21(op 3, arg 0)
+RunQueue: 1(program1)0(program0)5(program5)9(program9)8(program8)
+SleepList: 2(program2)3(program3)7(program7)6(program6)
+IOWait List: Empty
+
+[198 Cycle] Scheduled Process: None
+Running Process: Process#4 running code program4 line 22(op 4, arg 14)
+RunQueue: 1(program1)0(program0)5(program5)9(program9)8(program8)
+SleepList: 2(program2)3(program3)7(program7)6(program6)4(program4)
+IOWait List: Empty
+
+[199 Cycle] Scheduled Process: 3 program3
+Running Process: Process#3 running code program3 line 26(op 3, arg 0)
+RunQueue: 1(program1)0(program0)5(program5)9(program9)8(program8)6(program6)
+SleepList: 2(program2)7(program7)4(program4)
+IOWait List: Empty
+
+[200 Cycle] Scheduled Process: None
+Running Process: Process#3 running code program3 line 27(op 3, arg 0)
+RunQueue: 1(program1)0(program0)5(program5)9(program9)8(program8)6(program6)2(program2)
+SleepList: 7(program7)4(program4)
+IOWait List: Empty
+
+[201 Cycle] Scheduled Process: None
+Running Process: Process#3 running code program3 line 28(op 3, arg 0)
+RunQueue: 1(program1)0(program0)5(program5)9(program9)8(program8)6(program6)2(program2)
+SleepList: 7(program7)4(program4)
+IOWait List: Empty
+
+[202 Cycle] Scheduled Process: None
+Running Process: Process#3 running code program3 line 29(op 3, arg 0)
+RunQueue: 1(program1)0(program0)5(program5)9(program9)8(program8)6(program6)2(program2)
+SleepList: 7(program7)4(program4)
+IOWait List: Empty
+
+[203 Cycle] Scheduled Process: None
+Running Process: Process#3 running code program3 line 30(op 3, arg 0)
+RunQueue: 1(program1)0(program0)5(program5)9(program9)8(program8)6(program6)2(program2)
+SleepList: 7(program7)4(program4)
+IOWait List: Empty
+
+[204 Cycle] Scheduled Process: None
+Running Process: Process#3 running code program3 line 31(op 4, arg 6)
+RunQueue: 1(program1)0(program0)5(program5)9(program9)8(program8)6(program6)2(program2)
+SleepList: 7(program7)4(program4)3(program3)
+IOWait List: Empty
+
+[205 Cycle] Scheduled Process: 2 program2
+Running Process: Process#2 running code program2 line 32(op 3, arg 0)
+RunQueue: 1(program1)0(program0)5(program5)9(program9)8(program8)6(program6)
+SleepList: 7(program7)4(program4)3(program3)
+IOWait List: Empty
+
+[206 Cycle] Scheduled Process: None
+Running Process: Process#2 running code program2 line 33(op 3, arg 0)
+RunQueue: 1(program1)0(program0)5(program5)9(program9)8(program8)6(program6)
+SleepList: 7(program7)4(program4)3(program3)
+IOWait List: Empty
+
+[207 Cycle] Scheduled Process: None
+Running Process: Process#2 running code program2 line 34(op 3, arg 0)
+RunQueue: 1(program1)0(program0)5(program5)9(program9)8(program8)6(program6)
+SleepList: 7(program7)4(program4)3(program3)
+IOWait List: Empty
+
+[208 Cycle] Scheduled Process: None
+Running Process: Process#2 running code program2 line 35(op 3, arg 0)
+RunQueue: 1(program1)0(program0)5(program5)9(program9)8(program8)6(program6)7(program7)
+SleepList: 4(program4)3(program3)
+IOWait List: Empty
+
+[209 Cycle] Scheduled Process: None
+Running Process: Process#2 running code program2 line 36(op 4, arg 4)
+RunQueue: 1(program1)0(program0)5(program5)9(program9)8(program8)6(program6)7(program7)
+SleepList: 4(program4)3(program3)2(program2)
+IOWait List: Empty
+
+[210 Cycle] Scheduled Process: 7 program7
+Running Process: Process#7 running code program7 line 17(op 3, arg 0)
+RunQueue: 1(program1)0(program0)5(program5)9(program9)8(program8)6(program6)3(program3)
+SleepList: 4(program4)2(program2)
+IOWait List: Empty
+
+[211 Cycle] Scheduled Process: None
+Running Process: Process#7 running code program7 line 18(op 3, arg 0)
+RunQueue: 1(program1)0(program0)5(program5)9(program9)8(program8)6(program6)3(program3)
+SleepList: 4(program4)2(program2)
+IOWait List: Empty
+
+[212 Cycle] Scheduled Process: None
+Running Process: Process#7 running code program7 line 19(op 4, arg 24)
+RunQueue: 1(program1)0(program0)5(program5)9(program9)8(program8)6(program6)3(program3)4(program4)
+SleepList: 2(program2)7(program7)
+IOWait List: Empty
+
+[213 Cycle] Scheduled Process: 4 program4
+Running Process: Process#4 running code program4 line 23(op 3, arg 0)
+RunQueue: 1(program1)0(program0)5(program5)9(program9)8(program8)6(program6)3(program3)2(program2)
+SleepList: 7(program7)
+IOWait List: Empty
+
+[214 Cycle] Scheduled Process: None
+Running Process: Process#4 running code program4 line 24(op 3, arg 0)
+RunQueue: 1(program1)0(program0)5(program5)9(program9)8(program8)6(program6)3(program3)2(program2)
+SleepList: 7(program7)
+IOWait List: Empty
+
+[215 Cycle] Scheduled Process: None
+Running Process: Process#4 running code program4 line 25(op 4, arg 4)
+RunQueue: 1(program1)0(program0)5(program5)9(program9)8(program8)6(program6)3(program3)2(program2)
+SleepList: 7(program7)4(program4)
+IOWait List: Empty
+
+[216 Cycle] Scheduled Process: 2 program2
+Running Process: Process#2 running code program2 line 37(op 3, arg 0)
+RunQueue: 1(program1)0(program0)5(program5)9(program9)8(program8)6(program6)3(program3)
+SleepList: 7(program7)4(program4)
+IOWait List: Empty
+
+[217 Cycle] Scheduled Process: None
+Running Process: Process#2 running code program2 line 38(op 3, arg 0)
+RunQueue: 1(program1)0(program0)5(program5)9(program9)8(program8)6(program6)3(program3)
+SleepList: 7(program7)4(program4)
+IOWait List: Empty
+
+[218 Cycle] Scheduled Process: None
+Running Process: Process#2 running code program2 line 39(op 3, arg 0)
+RunQueue: 1(program1)0(program0)5(program5)9(program9)8(program8)6(program6)3(program3)
+SleepList: 7(program7)4(program4)
+IOWait List: Empty
+
+[219 Cycle] Scheduled Process: None
+Running Process: Process#2 running code program2 line 40(op 3, arg 0)
+RunQueue: 1(program1)0(program0)5(program5)9(program9)8(program8)6(program6)3(program3)4(program4)
+SleepList: 7(program7)
+IOWait List: Empty
+
+[220 Cycle] Scheduled Process: None
+Running Process: Process#2 running code program2 line 41(op 4, arg 10)
+RunQueue: 1(program1)0(program0)5(program5)9(program9)8(program8)6(program6)3(program3)4(program4)
+SleepList: 7(program7)2(program2)
+IOWait List: Empty
+
+[221 Cycle] Scheduled Process: 4 program4
+Running Process: Process#4 running code program4 line 26(op 3, arg 0)
+RunQueue: 1(program1)0(program0)5(program5)9(program9)8(program8)6(program6)3(program3)
+SleepList: 7(program7)2(program2)
+IOWait List: Empty
+
+[222 Cycle] Scheduled Process: None
+Running Process: Process#4 running code program4 line 27(op 3, arg 0)
+RunQueue: 1(program1)0(program0)5(program5)9(program9)8(program8)6(program6)3(program3)
+SleepList: 7(program7)2(program2)
+IOWait List: Empty
+
+[223 Cycle] Scheduled Process: None
+Running Process: Process#4 running code program4 line 28(op 4, arg 8)
+RunQueue: 1(program1)0(program0)5(program5)9(program9)8(program8)6(program6)3(program3)
+SleepList: 7(program7)2(program2)4(program4)
+IOWait List: Empty
+
+[224 Cycle] Scheduled Process: 3 program3
+Running Process: Process#3 running code program3 line 32(op 3, arg 0)
+RunQueue: 1(program1)0(program0)5(program5)9(program9)8(program8)6(program6)
+SleepList: 7(program7)2(program2)4(program4)
+IOWait List: Empty
+
+[225 Cycle] Scheduled Process: None
+Running Process: Process#3 running code program3 line 33(op 3, arg 0)
+RunQueue: 1(program1)0(program0)5(program5)9(program9)8(program8)6(program6)
+SleepList: 7(program7)2(program2)4(program4)
+IOWait List: Empty
+
+[226 Cycle] Scheduled Process: None
+Running Process: Process#3 running code program3 line 34(op 3, arg 0)
+RunQueue: 1(program1)0(program0)5(program5)9(program9)8(program8)6(program6)
+SleepList: 7(program7)2(program2)4(program4)
+IOWait List: Empty
+
+[227 Cycle] Scheduled Process: None
+Running Process: Process#3 running code program3 line 35(op 3, arg 0)
+RunQueue: 1(program1)0(program0)5(program5)9(program9)8(program8)6(program6)
+SleepList: 7(program7)2(program2)4(program4)
+IOWait List: Empty
+
+[228 Cycle] Scheduled Process: None
+Running Process: Process#3 running code program3 line 36(op 3, arg 0)
+RunQueue: 1(program1)0(program0)5(program5)9(program9)8(program8)6(program6)
+SleepList: 7(program7)2(program2)4(program4)
+IOWait List: Empty
+
+[229 Cycle] Scheduled Process: None
+Running Process: Process#3 running code program3 line 37(op 4, arg 11)
+RunQueue: 1(program1)0(program0)5(program5)9(program9)8(program8)6(program6)
+SleepList: 7(program7)2(program2)4(program4)3(program3)
+IOWait List: Empty
+
+[230 Cycle] Scheduled Process: 2 program2
+Running Process: Process#2 running code program2 line 42(op 3, arg 0)
+RunQueue: 1(program1)0(program0)5(program5)9(program9)8(program8)6(program6)
+SleepList: 7(program7)4(program4)3(program3)
+IOWait List: Empty
+
+[231 Cycle] Scheduled Process: 4 program4
+Running Process: Process#4 running code program4 line 29(op 3, arg 0)
+RunQueue: 1(program1)0(program0)5(program5)9(program9)8(program8)6(program6)2(program2)
+SleepList: 7(program7)3(program3)
+IOWait List: Empty
+
+[232 Cycle] Scheduled Process: None
+Running Process: Process#4 running code program4 line 30(op 3, arg 0)
+RunQueue: 1(program1)0(program0)5(program5)9(program9)8(program8)6(program6)2(program2)
+SleepList: 7(program7)3(program3)
+IOWait List: Empty
+
+[233 Cycle] Scheduled Process: None
+Running Process: Process#4 running code program4 line 31(op 4, arg 22)
+RunQueue: 1(program1)0(program0)5(program5)9(program9)8(program8)6(program6)2(program2)
+SleepList: 7(program7)3(program3)4(program4)
+IOWait List: Empty
+
+[234 Cycle] Scheduled Process: None
+Running Process: Process#2 running code program2 line 43(op 3, arg 0)
+RunQueue: 1(program1)0(program0)5(program5)9(program9)8(program8)6(program6)
+SleepList: 7(program7)3(program3)4(program4)
+IOWait List: Empty
+
+[235 Cycle] Scheduled Process: None
+Running Process: Process#2 running code program2 line 44(op 3, arg 0)
+RunQueue: 1(program1)0(program0)5(program5)9(program9)8(program8)6(program6)
+SleepList: 7(program7)3(program3)4(program4)
+IOWait List: Empty
+
+[236 Cycle] Scheduled Process: None
+Running Process: Process#2 running code program2 line 45(op 3, arg 0)
+RunQueue: 1(program1)0(program0)5(program5)9(program9)8(program8)6(program6)7(program7)
+SleepList: 3(program3)4(program4)
+IOWait List: Empty
+
+[237 Cycle] Scheduled Process: None
+Running Process: Process#2 running code program2 line 46(op 4, arg 14)
+RunQueue: 1(program1)0(program0)5(program5)9(program9)8(program8)6(program6)7(program7)
+SleepList: 3(program3)4(program4)2(program2)
+IOWait List: Empty
+
+[238 Cycle] Scheduled Process: 7 program7
+Running Process: Process#7 running code program7 line 20(op 3, arg 0)
+RunQueue: 1(program1)0(program0)5(program5)9(program9)8(program8)6(program6)
+SleepList: 3(program3)4(program4)2(program2)
+IOWait List: Empty
+
+[239 Cycle] Scheduled Process: None
+Running Process: Process#7 running code program7 line 21(op 3, arg 0)
+RunQueue: 1(program1)0(program0)5(program5)9(program9)8(program8)6(program6)
+SleepList: 3(program3)4(program4)2(program2)
+IOWait List: Empty
+
+[240 Cycle] Scheduled Process: None
+Running Process: Process#7 running code program7 line 22(op 4, arg 7)
+RunQueue: 1(program1)0(program0)5(program5)9(program9)8(program8)6(program6)3(program3)
+SleepList: 4(program4)2(program2)7(program7)
+IOWait List: Empty
+
+[241 Cycle] Scheduled Process: 3 program3
+Running Process: Process#3 running code program3 line 38(op 3, arg 0)
+RunQueue: 1(program1)0(program0)5(program5)9(program9)8(program8)6(program6)
+SleepList: 4(program4)2(program2)7(program7)
+IOWait List: Empty
+
+[242 Cycle] Scheduled Process: None
+Running Process: Process#3 running code program3 line 39(op 3, arg 0)
+RunQueue: 1(program1)0(program0)5(program5)9(program9)8(program8)6(program6)
+SleepList: 4(program4)2(program2)7(program7)
+IOWait List: Empty
+
+[243 Cycle] Scheduled Process: None
+Running Process: Process#3 running code program3 line 40(op 3, arg 0)
+RunQueue: 1(program1)0(program0)5(program5)9(program9)8(program8)6(program6)
+SleepList: 4(program4)2(program2)7(program7)
+IOWait List: Empty
+
+[244 Cycle] Scheduled Process: None
+Running Process: Process#3 running code program3 line 41(op 3, arg 0)
+RunQueue: 1(program1)0(program0)5(program5)9(program9)8(program8)6(program6)
+SleepList: 4(program4)2(program2)7(program7)
+IOWait List: Empty
+
+[245 Cycle] Scheduled Process: None
+Running Process: Process#3 running code program3 line 42(op 3, arg 0)
+RunQueue: 1(program1)0(program0)5(program5)9(program9)8(program8)6(program6)
+SleepList: 4(program4)2(program2)7(program7)
+IOWait List: Empty
+
+[246 Cycle] Scheduled Process: None
+Running Process: Process#3 running code program3 line 43(op 4, arg 6)
+RunQueue: 1(program1)0(program0)5(program5)9(program9)8(program8)6(program6)
+SleepList: 4(program4)2(program2)7(program7)3(program3)
+IOWait List: Empty
+
+[247 Cycle] Scheduled Process: 7 program7
+Running Process: Process#7 running code program7 line 23(op 3, arg 0)
+RunQueue: 1(program1)0(program0)5(program5)9(program9)8(program8)6(program6)
+SleepList: 4(program4)2(program2)3(program3)
+IOWait List: Empty
+
+[248 Cycle] Scheduled Process: None
+Running Process: Process#7 running code program7 line 24(op 3, arg 0)
+RunQueue: 1(program1)0(program0)5(program5)9(program9)8(program8)6(program6)
+SleepList: 4(program4)2(program2)3(program3)
+IOWait List: Empty
+
+[249 Cycle] Scheduled Process: None
+Running Process: Process#7 running code program7 line 25(op 4, arg 7)
+RunQueue: 1(program1)0(program0)5(program5)9(program9)8(program8)6(program6)
+SleepList: 4(program4)2(program2)3(program3)7(program7)
+IOWait List: Empty
+
+[250 Cycle] Scheduled Process: None
+Running Process: Process#8 running code program8 line 13(op 3, arg 0)
+RunQueue: 1(program1)0(program0)5(program5)9(program9)6(program6)
+SleepList: 4(program4)2(program2)3(program3)7(program7)
+IOWait List: Empty
+
+[251 Cycle] Scheduled Process: None
+Running Process: Process#8 running code program8 line 14(op 3, arg 0)
+RunQueue: 1(program1)0(program0)5(program5)9(program9)6(program6)2(program2)
+SleepList: 4(program4)3(program3)7(program7)
+IOWait List: Empty
+
+[252 Cycle] Scheduled Process: None
+Running Process: Process#8 running code program8 line 15(op 3, arg 0)
+RunQueue: 1(program1)0(program0)5(program5)9(program9)6(program6)2(program2)3(program3)
+SleepList: 4(program4)7(program7)
+IOWait List: Empty
+
+[253 Cycle] Scheduled Process: None
+Running Process: Process#8 running code program8 line 16(op 3, arg 0)
+RunQueue: 1(program1)0(program0)5(program5)9(program9)6(program6)2(program2)3(program3)
+SleepList: 4(program4)7(program7)
+IOWait List: Empty
+
+[254 Cycle] Scheduled Process: 2 program2
+Running Process: Process#2 running code program2 line 47(op 3, arg 0)
+RunQueue: 1(program1)0(program0)5(program5)9(program9)6(program6)3(program3)
+SleepList: 4(program4)7(program7)
+IOWait List: Empty
+
+[255 Cycle] Scheduled Process: 4 program4
+Running Process: Process#4 running code program4 line 32(op 3, arg 0)
+RunQueue: 1(program1)0(program0)5(program5)9(program9)6(program6)3(program3)2(program2)
+SleepList: 7(program7)
+IOWait List: Empty
+
+[256 Cycle] Scheduled Process: None
+Running Process: Process#4 running code program4 line 33(op 3, arg 0)
+RunQueue: 1(program1)0(program0)5(program5)9(program9)6(program6)3(program3)2(program2)7(program7)
+SleepList: Empty
+IOWait List: Empty
+
+[257 Cycle] Scheduled Process: None
+Running Process: Process#4 running code program4 line 34(op 4, arg 10)
+RunQueue: 1(program1)0(program0)5(program5)9(program9)6(program6)3(program3)2(program2)7(program7)
+SleepList: 4(program4)
+IOWait List: Empty
+
+[258 Cycle] Scheduled Process: 7 program7
+Running Process: Process#7 running code program7 line 26(op 3, arg 0)
+RunQueue: 1(program1)0(program0)5(program5)9(program9)6(program6)3(program3)2(program2)
+SleepList: 4(program4)
+IOWait List: Empty
+
+[259 Cycle] Scheduled Process: None
+Running Process: Process#7 running code program7 line 27(op 3, arg 0)
+RunQueue: 1(program1)0(program0)5(program5)9(program9)6(program6)3(program3)2(program2)
+SleepList: 4(program4)
+IOWait List: Empty
+
+[260 Cycle] Scheduled Process: None
+Running Process: Process#7 running code program7 line 28(op 4, arg 3)
+RunQueue: 1(program1)0(program0)5(program5)9(program9)6(program6)3(program3)2(program2)
+SleepList: 4(program4)7(program7)
+IOWait List: Empty
+
+[261 Cycle] Scheduled Process: None
+Running Process: Process#2 running code program2 line 48(op 3, arg 0)
+RunQueue: 1(program1)0(program0)5(program5)9(program9)6(program6)3(program3)
+SleepList: 4(program4)7(program7)
+IOWait List: Empty
+
+[262 Cycle] Scheduled Process: None
+Running Process: Process#2 running code program2 line 49(op 3, arg 0)
+RunQueue: 1(program1)0(program0)5(program5)9(program9)6(program6)3(program3)
+SleepList: 4(program4)7(program7)
+IOWait List: Empty
+
+[263 Cycle] Scheduled Process: None
+Running Process: Process#2 running code program2 line 50(op 3, arg 0)
+RunQueue: 1(program1)0(program0)5(program5)9(program9)6(program6)3(program3)7(program7)
+SleepList: 4(program4)
+IOWait List: Empty
+
+[264 Cycle] Scheduled Process: None
+Running Process: Process#2 running code program2 line 51(op 4, arg 24)
+RunQueue: 1(program1)0(program0)5(program5)9(program9)6(program6)3(program3)7(program7)
+SleepList: 4(program4)2(program2)
+IOWait List: Empty
+
+[265 Cycle] Scheduled Process: 7 program7
+Running Process: Process#7 running code program7 line 29(op 3, arg 0)
+RunQueue: 1(program1)0(program0)5(program5)9(program9)6(program6)3(program3)
+SleepList: 4(program4)2(program2)
+IOWait List: Empty
+
+[266 Cycle] Scheduled Process: None
+Running Process: Process#7 running code program7 line 30(op 3, arg 0)
+RunQueue: 1(program1)0(program0)5(program5)9(program9)6(program6)3(program3)
+SleepList: 4(program4)2(program2)
+IOWait List: Empty
+
+[267 Cycle] Scheduled Process: None
+Running Process: Process#7 running code program7 line 31(op 4, arg 7)
+RunQueue: 1(program1)0(program0)5(program5)9(program9)6(program6)3(program3)4(program4)
+SleepList: 2(program2)7(program7)
+IOWait List: Empty
+
+[268 Cycle] Scheduled Process: 4 program4
+Running Process: Process#4 running code program4 line 35(op 3, arg 0)
+RunQueue: 1(program1)0(program0)5(program5)9(program9)6(program6)3(program3)
+SleepList: 2(program2)7(program7)
+IOWait List: Empty
+
+[269 Cycle] Scheduled Process: None
+Running Process: Process#4 running code program4 line 36(op 3, arg 0)
+RunQueue: 1(program1)0(program0)5(program5)9(program9)6(program6)3(program3)
+SleepList: 2(program2)7(program7)
+IOWait List: Empty
+
+[270 Cycle] Scheduled Process: None
+Running Process: Process#4 running code program4 line 37(op 4, arg 7)
+RunQueue: 1(program1)0(program0)5(program5)9(program9)6(program6)3(program3)
+SleepList: 2(program2)7(program7)4(program4)
+IOWait List: Empty
+
+[271 Cycle] Scheduled Process: 3 program3
+Running Process: Process#3 running code program3 line 44(op 3, arg 0)
+RunQueue: 1(program1)0(program0)5(program5)9(program9)6(program6)
+SleepList: 2(program2)7(program7)4(program4)
+IOWait List: Empty
+
+[272 Cycle] Scheduled Process: None
+Running Process: Process#3 running code program3 line 45(op 3, arg 0)
+RunQueue: 1(program1)0(program0)5(program5)9(program9)6(program6)
+SleepList: 2(program2)7(program7)4(program4)
+IOWait List: Empty
+
+[273 Cycle] Scheduled Process: None
+Running Process: Process#3 running code program3 line 46(op 3, arg 0)
+RunQueue: 1(program1)0(program0)5(program5)9(program9)6(program6)
+SleepList: 2(program2)7(program7)4(program4)
+IOWait List: Empty
+
+[274 Cycle] Scheduled Process: None
+Running Process: Process#3 running code program3 line 47(op 3, arg 0)
+RunQueue: 1(program1)0(program0)5(program5)9(program9)6(program6)7(program7)
+SleepList: 2(program2)4(program4)
+IOWait List: Empty
+
+[275 Cycle] Scheduled Process: None
+Running Process: Process#3 running code program3 line 48(op 3, arg 0)
+RunQueue: 1(program1)0(program0)5(program5)9(program9)6(program6)7(program7)
+SleepList: 2(program2)4(program4)
+IOWait List: Empty
+
+[276 Cycle] Scheduled Process: None
+Running Process: Process#3 running code program3 line 49(op 4, arg 16)
+RunQueue: 1(program1)0(program0)5(program5)9(program9)6(program6)7(program7)
+SleepList: 2(program2)4(program4)3(program3)
+IOWait List: Empty
+
+[277 Cycle] Scheduled Process: 7 program7
+Running Process: Process#7 running code program7 line 32(op 3, arg 0)
+RunQueue: 1(program1)0(program0)5(program5)9(program9)6(program6)4(program4)
+SleepList: 2(program2)3(program3)
+IOWait List: Empty
+
+[278 Cycle] Scheduled Process: None
+Running Process: Process#7 running code program7 line 33(op 3, arg 0)
+RunQueue: 1(program1)0(program0)5(program5)9(program9)6(program6)4(program4)
+SleepList: 2(program2)3(program3)
+IOWait List: Empty
+
+[279 Cycle] Scheduled Process: None
+Running Process: Process#7 running code program7 line 34(op 4, arg 18)
+RunQueue: 1(program1)0(program0)5(program5)9(program9)6(program6)4(program4)
+SleepList: 2(program2)3(program3)7(program7)
+IOWait List: Empty
+
+[280 Cycle] Scheduled Process: 4 program4
+Running Process: Process#4 running code program4 line 38(op 3, arg 0)
+RunQueue: 1(program1)0(program0)5(program5)9(program9)6(program6)
+SleepList: 2(program2)3(program3)7(program7)
+IOWait List: Empty
+
+[281 Cycle] Scheduled Process: None
+Running Process: Process#4 running code program4 line 39(op 3, arg 0)
+RunQueue: 1(program1)0(program0)5(program5)9(program9)6(program6)
+SleepList: 2(program2)3(program3)7(program7)
+IOWait List: Empty
+
+[282 Cycle] Scheduled Process: None
+Running Process: Process#4 running code program4 line 40(op 4, arg 5)
+RunQueue: 1(program1)0(program0)5(program5)9(program9)6(program6)
+SleepList: 2(program2)3(program3)7(program7)4(program4)
+IOWait List: Empty
+
+[283 Cycle] Scheduled Process: 1 program1
+Running Process: Process#1 running code program1 line 13(op 3, arg 0)
+RunQueue: 0(program0)5(program5)9(program9)6(program6)
+SleepList: 2(program2)3(program3)7(program7)4(program4)
+IOWait List: Empty
+
+[284 Cycle] Scheduled Process: None
+Running Process: Process#1 running code program1 line 14(op 3, arg 0)
+RunQueue: 0(program0)5(program5)9(program9)6(program6)
+SleepList: 2(program2)3(program3)7(program7)4(program4)
+IOWait List: Empty
+
+[285 Cycle] Scheduled Process: None
+Running Process: Process#1 running code program1 line 15(op 3, arg 0)
+RunQueue: 0(program0)5(program5)9(program9)6(program6)
+SleepList: 2(program2)3(program3)7(program7)4(program4)
+IOWait List: Empty
+
+[286 Cycle] Scheduled Process: None
+Running Process: Process#1 running code program1 line 16(op 3, arg 0)
+RunQueue: 0(program0)5(program5)9(program9)6(program6)
+SleepList: 2(program2)3(program3)7(program7)4(program4)
+IOWait List: Empty
+
+[287 Cycle] Scheduled Process: 4 program4
+Running Process: Process#4 running code program4 line 41(op 3, arg 0)
+RunQueue: 0(program0)5(program5)9(program9)6(program6)1(program1)
+SleepList: 2(program2)3(program3)7(program7)
+IOWait List: Empty
+
+[288 Cycle] Scheduled Process: None
+Running Process: Process#4 running code program4 line 42(op 3, arg 0)
+RunQueue: 0(program0)5(program5)9(program9)6(program6)1(program1)2(program2)
+SleepList: 3(program3)7(program7)
+IOWait List: Empty
+
+[289 Cycle] Scheduled Process: None
+Running Process: Process#4 running code program4 line 43(op 4, arg 21)
+RunQueue: 0(program0)5(program5)9(program9)6(program6)1(program1)2(program2)
+SleepList: 3(program3)7(program7)4(program4)
+IOWait List: Empty
+
+[290 Cycle] Scheduled Process: 2 program2
+Running Process: Process#2 running code program2 line 52(op 3, arg 0)
+RunQueue: 0(program0)5(program5)9(program9)6(program6)1(program1)
+SleepList: 3(program3)7(program7)4(program4)
+IOWait List: Empty
+
+[291 Cycle] Scheduled Process: None
+Running Process: Process#2 running code program2 line 53(op 3, arg 0)
+RunQueue: 0(program0)5(program5)9(program9)6(program6)1(program1)
+SleepList: 3(program3)7(program7)4(program4)
+IOWait List: Empty
+
+[292 Cycle] Scheduled Process: None
+Running Process: Process#2 running code program2 line 54(op 3, arg 0)
+RunQueue: 0(program0)5(program5)9(program9)6(program6)1(program1)3(program3)
+SleepList: 7(program7)4(program4)
+IOWait List: Empty
+
+[293 Cycle] Scheduled Process: None
+Running Process: Process#2 running code program2 line 55(op 3, arg 0)
+RunQueue: 0(program0)5(program5)9(program9)6(program6)1(program1)3(program3)
+SleepList: 7(program7)4(program4)
+IOWait List: Empty
+
+[294 Cycle] Scheduled Process: None
+Running Process: Process#2 running code program2 line 56(op 4, arg 4)
+RunQueue: 0(program0)5(program5)9(program9)6(program6)1(program1)3(program3)
+SleepList: 7(program7)4(program4)2(program2)
+IOWait List: Empty
+
+[295 Cycle] Scheduled Process: 3 program3
+Running Process: Process#3 running code program3 line 50(op 3, arg 0)
+RunQueue: 0(program0)5(program5)9(program9)6(program6)1(program1)
+SleepList: 7(program7)4(program4)2(program2)
+IOWait List: Empty
+
+[296 Cycle] Scheduled Process: None
+Running Process: Process#3 running code program3 line 51(op 3, arg 0)
+RunQueue: 0(program0)5(program5)9(program9)6(program6)1(program1)
+SleepList: 7(program7)4(program4)2(program2)
+IOWait List: Empty
+
+[297 Cycle] Scheduled Process: 7 program7
+Running Process: Process#7 running code program7 line 35(op 3, arg 0)
+RunQueue: 0(program0)5(program5)9(program9)6(program6)1(program1)3(program3)
+SleepList: 4(program4)2(program2)
+IOWait List: Empty
+
+[298 Cycle] Scheduled Process: None
+Running Process: Process#7 running code program7 line 36(op 3, arg 0)
+RunQueue: 0(program0)5(program5)9(program9)6(program6)1(program1)3(program3)2(program2)
+SleepList: 4(program4)
+IOWait List: Empty
+
+[299 Cycle] Scheduled Process: None
+Running Process: Process#7 running code program7 line 37(op 4, arg 16)
+RunQueue: 0(program0)5(program5)9(program9)6(program6)1(program1)3(program3)2(program2)
+SleepList: 4(program4)7(program7)
+IOWait List: Empty
+
+[300 Cycle] Scheduled Process: 2 program2
+Running Process: Process#2 running code program2 line 57(op 3, arg 0)
+RunQueue: 0(program0)5(program5)9(program9)6(program6)1(program1)3(program3)
+SleepList: 4(program4)7(program7)
+IOWait List: Empty
+
+[301 Cycle] Scheduled Process: None
+Running Process: Process#2 running code program2 line 58(op 3, arg 0)
+RunQueue: 0(program0)5(program5)9(program9)6(program6)1(program1)3(program3)
+SleepList: 4(program4)7(program7)
+IOWait List: Empty
+
+[302 Cycle] Scheduled Process: None
+Running Process: Process#2 running code program2 line 59(op 3, arg 0)
+RunQueue: 0(program0)5(program5)9(program9)6(program6)1(program1)3(program3)
+SleepList: 4(program4)7(program7)
+IOWait List: Empty
+
+[303 Cycle] Scheduled Process: None
+Running Process: Process#2 running code program2 line 60(op 3, arg 0)
+RunQueue: 0(program0)5(program5)9(program9)6(program6)1(program1)3(program3)
+SleepList: 4(program4)7(program7)
+IOWait List: Empty
+
+[304 Cycle] Scheduled Process: None
+Running Process: Process#2 running code program2 line 61(op 4, arg 8)
+RunQueue: 0(program0)5(program5)9(program9)6(program6)1(program1)3(program3)
+SleepList: 4(program4)7(program7)2(program2)
+IOWait List: Empty
+
+[305 Cycle] Scheduled Process: None
+Running Process: Process#3 running code program3 line 52(op 3, arg 0)
+RunQueue: 0(program0)5(program5)9(program9)6(program6)1(program1)
+SleepList: 4(program4)7(program7)2(program2)
+IOWait List: Empty
+
+[306 Cycle] Scheduled Process: None
+Running Process: Process#3 running code program3 line 53(op 3, arg 0)
+RunQueue: 0(program0)5(program5)9(program9)6(program6)1(program1)
+SleepList: 4(program4)7(program7)2(program2)
+IOWait List: Empty
+
+[307 Cycle] Scheduled Process: None
+Running Process: Process#3 running code program3 line 54(op 3, arg 0)
+RunQueue: 0(program0)5(program5)9(program9)6(program6)1(program1)
+SleepList: 4(program4)7(program7)2(program2)
+IOWait List: Empty
+
+[308 Cycle] Scheduled Process: None
+Running Process: Process#3 running code program3 line 55(op 4, arg 25)
+RunQueue: 0(program0)5(program5)9(program9)6(program6)1(program1)
+SleepList: 4(program4)7(program7)2(program2)3(program3)
+IOWait List: Empty
+
+[309 Cycle] Scheduled Process: 5 program5
+Running Process: Process#5 running code program5 line 13(op 3, arg 0)
+RunQueue: 0(program0)9(program9)6(program6)1(program1)
+SleepList: 4(program4)7(program7)2(program2)3(program3)
+IOWait List: Empty
+
+[310 Cycle] Scheduled Process: 4 program4
+Running Process: Process#4 running code program4 line 44(op 3, arg 0)
+RunQueue: 0(program0)9(program9)6(program6)1(program1)5(program5)
+SleepList: 7(program7)2(program2)3(program3)
+IOWait List: Empty
+
+[311 Cycle] Scheduled Process: None
+Running Process: Process#4 running code program4 line 45(op 3, arg 0)
+RunQueue: 0(program0)9(program9)6(program6)1(program1)5(program5)
+SleepList: 7(program7)2(program2)3(program3)
+IOWait List: Empty
+
+[312 Cycle] Scheduled Process: None
+Running Process: Process#4 running code program4 line 46(op 4, arg 24)
+RunQueue: 0(program0)9(program9)6(program6)1(program1)5(program5)2(program2)
+SleepList: 7(program7)3(program3)4(program4)
+IOWait List: Empty
+
+[313 Cycle] Scheduled Process: 2 program2
+Running Process: Process#2 running code program2 line 62(op 3, arg 0)
+RunQueue: 0(program0)9(program9)6(program6)1(program1)5(program5)
+SleepList: 7(program7)3(program3)4(program4)
+IOWait List: Empty
+
+[314 Cycle] Scheduled Process: None
+Running Process: Process#2 running code program2 line 63(op 3, arg 0)
+RunQueue: 0(program0)9(program9)6(program6)1(program1)5(program5)
+SleepList: 7(program7)3(program3)4(program4)
+IOWait List: Empty
+
+[315 Cycle] Scheduled Process: None
+Running Process: Process#2 running code program2 line 64(op 3, arg 0)
+RunQueue: 0(program0)9(program9)6(program6)1(program1)5(program5)7(program7)
+SleepList: 3(program3)4(program4)
+IOWait List: Empty
+
+[316 Cycle] Scheduled Process: None
+Running Process: Process#2 running code program2 line 65(op 3, arg 0)
+RunQueue: 0(program0)9(program9)6(program6)1(program1)5(program5)7(program7)
+SleepList: 3(program3)4(program4)
+IOWait List: Empty
+
+[317 Cycle] Scheduled Process: None
+Running Process: Process#2 running code program2 line 66(op 4, arg 10)
+RunQueue: 0(program0)9(program9)6(program6)1(program1)5(program5)7(program7)
+SleepList: 3(program3)4(program4)2(program2)
+IOWait List: Empty
+
+[318 Cycle] Scheduled Process: 7 program7
+Running Process: Process#7 running code program7 line 38(op 3, arg 0)
+RunQueue: 0(program0)9(program9)6(program6)1(program1)5(program5)
+SleepList: 3(program3)4(program4)2(program2)
+IOWait List: Empty
+
+[319 Cycle] Scheduled Process: None
+Running Process: Process#7 running code program7 line 39(op 3, arg 0)
+RunQueue: 0(program0)9(program9)6(program6)1(program1)5(program5)
+SleepList: 3(program3)4(program4)2(program2)
+IOWait List: Empty
+
+[320 Cycle] Scheduled Process: None
+Running Process: Process#7 running code program7 line 40(op 4, arg 9)
+RunQueue: 0(program0)9(program9)6(program6)1(program1)5(program5)
+SleepList: 3(program3)4(program4)2(program2)7(program7)
+IOWait List: Empty
+
+[321 Cycle] Scheduled Process: None
+Running Process: Process#1 running code program1 line 17(op 3, arg 0)
+RunQueue: 0(program0)9(program9)6(program6)5(program5)
+SleepList: 3(program3)4(program4)2(program2)7(program7)
+IOWait List: Empty
+
+[322 Cycle] Scheduled Process: None
+Running Process: Process#1 running code program1 line 18(op 3, arg 0)
+RunQueue: 0(program0)9(program9)6(program6)5(program5)
+SleepList: 3(program3)4(program4)2(program2)7(program7)
+IOWait List: Empty
+
+[323 Cycle] Scheduled Process: None
+Running Process: Process#1 running code program1 line 19(op 3, arg 0)
+RunQueue: 0(program0)9(program9)6(program6)5(program5)
+SleepList: 3(program3)4(program4)2(program2)7(program7)
+IOWait List: Empty
+
+[324 Cycle] Scheduled Process: None
+Running Process: Process#1 running code program1 line 20(op 3, arg 0)
+RunQueue: 0(program0)9(program9)6(program6)5(program5)
+SleepList: 3(program3)4(program4)2(program2)7(program7)
+IOWait List: Empty
+
+[325 Cycle] Scheduled Process: None
+Running Process: Process#1 running code program1 line 21(op 3, arg 0)
+RunQueue: 0(program0)9(program9)6(program6)5(program5)
+SleepList: 3(program3)4(program4)2(program2)7(program7)
+IOWait List: Empty
+
+[326 Cycle] Scheduled Process: None
+Running Process: Process#1 running code program1 line 22(op 3, arg 0)
+RunQueue: 0(program0)9(program9)6(program6)5(program5)
+SleepList: 3(program3)4(program4)2(program2)7(program7)
+IOWait List: Empty
+
+[327 Cycle] Scheduled Process: None
+Running Process: Process#1 running code program1 line 23(op 4, arg 8)
+RunQueue: 0(program0)9(program9)6(program6)5(program5)2(program2)
+SleepList: 3(program3)4(program4)7(program7)1(program1)
+IOWait List: Empty
+
+[328 Cycle] Scheduled Process: 2 program2
+Running Process: Process#2 running code program2 line 67(op 3, arg 0)
+RunQueue: 0(program0)9(program9)6(program6)5(program5)
+SleepList: 3(program3)4(program4)7(program7)1(program1)
+IOWait List: Empty
+
+[329 Cycle] Scheduled Process: 7 program7
+Running Process: Process#7 running code program7 line 41(op 3, arg 0)
+RunQueue: 0(program0)9(program9)6(program6)5(program5)2(program2)
+SleepList: 3(program3)4(program4)1(program1)
+IOWait List: Empty
+
+[330 Cycle] Scheduled Process: None
+Running Process: Process#7 running code program7 line 42(op 3, arg 0)
+RunQueue: 0(program0)9(program9)6(program6)5(program5)2(program2)
+SleepList: 3(program3)4(program4)1(program1)
+IOWait List: Empty
+
+[331 Cycle] Scheduled Process: None
+Running Process: Process#7 running code program7 line 43(op 4, arg 12)
+RunQueue: 0(program0)9(program9)6(program6)5(program5)2(program2)
+SleepList: 3(program3)4(program4)1(program1)7(program7)
+IOWait List: Empty
+
+[332 Cycle] Scheduled Process: None
+Running Process: Process#2 running code program2 line 68(op 3, arg 0)
+RunQueue: 0(program0)9(program9)6(program6)5(program5)
+SleepList: 3(program3)4(program4)1(program1)7(program7)
+IOWait List: Empty
+
+[333 Cycle] Scheduled Process: None
+Running Process: Process#2 running code program2 line 69(op 3, arg 0)
+RunQueue: 0(program0)9(program9)6(program6)5(program5)3(program3)
+SleepList: 4(program4)1(program1)7(program7)
+IOWait List: Empty
+
+[334 Cycle] Scheduled Process: None
+Running Process: Process#2 running code program2 line 70(op 3, arg 0)
+RunQueue: 0(program0)9(program9)6(program6)5(program5)3(program3)
+SleepList: 4(program4)1(program1)7(program7)
+IOWait List: Empty
+
+[335 Cycle] Scheduled Process: None
+Running Process: Process#2 running code program2 line 71(op 4, arg 6)
+RunQueue: 0(program0)9(program9)6(program6)5(program5)3(program3)1(program1)
+SleepList: 4(program4)7(program7)2(program2)
+IOWait List: Empty
+
+[336 Cycle] Scheduled Process: 4 program4
+Running Process: Process#4 running code program4 line 47(op 3, arg 0)
+RunQueue: 0(program0)9(program9)6(program6)5(program5)3(program3)1(program1)
+SleepList: 7(program7)2(program2)
+IOWait List: Empty
+
+[337 Cycle] Scheduled Process: None
+Running Process: Process#4 running code program4 line 48(op 3, arg 0)
+RunQueue: 0(program0)9(program9)6(program6)5(program5)3(program3)1(program1)
+SleepList: 7(program7)2(program2)
+IOWait List: Empty
+
+[338 Cycle] Scheduled Process: None
+Running Process: Process#4 running code program4 line 49(op 4, arg 21)
+RunQueue: 0(program0)9(program9)6(program6)5(program5)3(program3)1(program1)
+SleepList: 7(program7)2(program2)4(program4)
+IOWait List: Empty
+
+[339 Cycle] Scheduled Process: 3 program3
+Running Process: Process#3 running code program3 line 56(op 3, arg 0)
+RunQueue: 0(program0)9(program9)6(program6)5(program5)1(program1)
+SleepList: 7(program7)2(program2)4(program4)
+IOWait List: Empty
+
+[340 Cycle] Scheduled Process: None
+Running Process: Process#3 running code program3 line 57(op 3, arg 0)
+RunQueue: 0(program0)9(program9)6(program6)5(program5)1(program1)
+SleepList: 7(program7)2(program2)4(program4)
+IOWait List: Empty
+
+[341 Cycle] Scheduled Process: None
+Running Process: Process#3 running code program3 line 58(op 3, arg 0)
+RunQueue: 0(program0)9(program9)6(program6)5(program5)1(program1)2(program2)
+SleepList: 7(program7)4(program4)
+IOWait List: Empty
+
+[342 Cycle] Scheduled Process: None
+Running Process: Process#3 running code program3 line 59(op 3, arg 0)
+RunQueue: 0(program0)9(program9)6(program6)5(program5)1(program1)2(program2)
+SleepList: 7(program7)4(program4)
+IOWait List: Empty
+
+[343 Cycle] Scheduled Process: None
+Running Process: Process#3 running code program3 line 60(op 3, arg 0)
+RunQueue: 0(program0)9(program9)6(program6)5(program5)1(program1)2(program2)7(program7)
+SleepList: 4(program4)
+IOWait List: Empty
+
+[344 Cycle] Scheduled Process: None
+Running Process: Process#3 running code program3 line 61(op 4, arg 7)
+RunQueue: 0(program0)9(program9)6(program6)5(program5)1(program1)2(program2)7(program7)
+SleepList: 4(program4)3(program3)
+IOWait List: Empty
+
+[345 Cycle] Scheduled Process: 7 program7
+Running Process: Process#7 running code program7 line 44(op 3, arg 0)
+RunQueue: 0(program0)9(program9)6(program6)5(program5)1(program1)2(program2)
+SleepList: 4(program4)3(program3)
+IOWait List: Empty
+
+[346 Cycle] Scheduled Process: None
+Running Process: Process#7 running code program7 line 45(op 3, arg 0)
+RunQueue: 0(program0)9(program9)6(program6)5(program5)1(program1)2(program2)
+SleepList: 4(program4)3(program3)
+IOWait List: Empty
+
+[347 Cycle] Scheduled Process: None
+Running Process: Process#7 running code program7 line 46(op 4, arg 19)
+RunQueue: 0(program0)9(program9)6(program6)5(program5)1(program1)2(program2)
+SleepList: 4(program4)3(program3)7(program7)
+IOWait List: Empty
+
+[348 Cycle] Scheduled Process: 2 program2
+Running Process: Process#2 running code program2 line 72(op 3, arg 0)
+RunQueue: 0(program0)9(program9)6(program6)5(program5)1(program1)
+SleepList: 4(program4)3(program3)7(program7)
+IOWait List: Empty
+
+[349 Cycle] Scheduled Process: None
+Running Process: Process#2 running code program2 line 73(op 3, arg 0)
+RunQueue: 0(program0)9(program9)6(program6)5(program5)1(program1)
+SleepList: 4(program4)3(program3)7(program7)
+IOWait List: Empty
+
+[350 Cycle] Scheduled Process: None
+Running Process: Process#2 running code program2 line 74(op 3, arg 0)
+RunQueue: 0(program0)9(program9)6(program6)5(program5)1(program1)
+SleepList: 4(program4)3(program3)7(program7)
+IOWait List: Empty
+
+[351 Cycle] Scheduled Process: None
+Running Process: Process#2 running code program2 line 75(op 3, arg 0)
+RunQueue: 0(program0)9(program9)6(program6)5(program5)1(program1)3(program3)
+SleepList: 4(program4)7(program7)
+IOWait List: Empty
+
+[352 Cycle] Scheduled Process: None
+Running Process: Process#2 running code program2 line 76(op 4, arg 4)
+RunQueue: 0(program0)9(program9)6(program6)5(program5)1(program1)3(program3)
+SleepList: 4(program4)7(program7)2(program2)
+IOWait List: Empty
+
+[353 Cycle] Scheduled Process: 3 program3
+Running Process: Process#3 running code program3 line 62(op 3, arg 0)
+RunQueue: 0(program0)9(program9)6(program6)5(program5)1(program1)
+SleepList: 4(program4)7(program7)2(program2)
+IOWait List: Empty
+
+[354 Cycle] Scheduled Process: None
+Running Process: Process#3 running code program3 line 63(op 3, arg 0)
+RunQueue: 0(program0)9(program9)6(program6)5(program5)1(program1)
+SleepList: 4(program4)7(program7)2(program2)
+IOWait List: Empty
+
+[355 Cycle] Scheduled Process: None
+Running Process: Process#3 running code program3 line 64(op 3, arg 0)
+RunQueue: 0(program0)9(program9)6(program6)5(program5)1(program1)
+SleepList: 4(program4)7(program7)2(program2)
+IOWait List: Empty
+
+[356 Cycle] Scheduled Process: None
+Running Process: Process#3 running code program3 line 65(op 3, arg 0)
+RunQueue: 0(program0)9(program9)6(program6)5(program5)1(program1)2(program2)
+SleepList: 4(program4)7(program7)
+IOWait List: Empty
+
+[357 Cycle] Scheduled Process: None
+Running Process: Process#3 running code program3 line 66(op 3, arg 0)
+RunQueue: 0(program0)9(program9)6(program6)5(program5)1(program1)2(program2)
+SleepList: 4(program4)7(program7)
+IOWait List: Empty
+
+[358 Cycle] Scheduled Process: None
+Running Process: Process#3 running code program3 line 67(op 4, arg 5)
+RunQueue: 0(program0)9(program9)6(program6)5(program5)1(program1)2(program2)
+SleepList: 4(program4)7(program7)3(program3)
+IOWait List: Empty
+
+[359 Cycle] Scheduled Process: 4 program4
+Running Process: Process#4 running code program4 line 50(op 3, arg 0)
+RunQueue: 0(program0)9(program9)6(program6)5(program5)1(program1)2(program2)
+SleepList: 7(program7)3(program3)
+IOWait List: Empty
+
+[360 Cycle] Scheduled Process: None
+Running Process: Process#4 running code program4 line 51(op 3, arg 0)
+RunQueue: 0(program0)9(program9)6(program6)5(program5)1(program1)2(program2)
+SleepList: 7(program7)3(program3)
+IOWait List: Empty
+
+[361 Cycle] Scheduled Process: None
+Running Process: Process#4 running code program4 line 52(op 4, arg 20)
+RunQueue: 0(program0)9(program9)6(program6)5(program5)1(program1)2(program2)
+SleepList: 7(program7)3(program3)4(program4)
+IOWait List: Empty
+
+[362 Cycle] Scheduled Process: 2 program2
+Running Process: Process#2 running code program2 line 77(op 3, arg 0)
+RunQueue: 0(program0)9(program9)6(program6)5(program5)1(program1)
+SleepList: 7(program7)3(program3)4(program4)
+IOWait List: Empty
+
+[363 Cycle] Scheduled Process: None
+Running Process: Process#2 running code program2 line 78(op 3, arg 0)
+RunQueue: 0(program0)9(program9)6(program6)5(program5)1(program1)3(program3)
+SleepList: 7(program7)4(program4)
+IOWait List: Empty
+
+[364 Cycle] Scheduled Process: None
+Running Process: Process#2 running code program2 line 79(op 3, arg 0)
+RunQueue: 0(program0)9(program9)6(program6)5(program5)1(program1)3(program3)
+SleepList: 7(program7)4(program4)
+IOWait List: Empty
+
+[365 Cycle] Scheduled Process: None
+Running Process: Process#2 running code program2 line 80(op 3, arg 0)
+RunQueue: 0(program0)9(program9)6(program6)5(program5)1(program1)3(program3)
+SleepList: 7(program7)4(program4)
+IOWait List: Empty
+
+[366 Cycle] Scheduled Process: None
+Running Process: Process#2 running code program2 line 81(op 4, arg 17)
+RunQueue: 0(program0)9(program9)6(program6)5(program5)1(program1)3(program3)7(program7)
+SleepList: 4(program4)2(program2)
+IOWait List: Empty
+
+[367 Cycle] Scheduled Process: 7 program7
+Running Process: Process#7 running code program7 line 47(op 3, arg 0)
+RunQueue: 0(program0)9(program9)6(program6)5(program5)1(program1)3(program3)
+SleepList: 4(program4)2(program2)
+IOWait List: Empty
+
+[368 Cycle] Scheduled Process: None
+Running Process: Process#7 running code program7 line 48(op 3, arg 0)
+RunQueue: 0(program0)9(program9)6(program6)5(program5)1(program1)3(program3)
+SleepList: 4(program4)2(program2)
+IOWait List: Empty
+
+[369 Cycle] Scheduled Process: None
+Running Process: Process#7 running code program7 line 49(op 4, arg 10)
+RunQueue: 0(program0)9(program9)6(program6)5(program5)1(program1)3(program3)
+SleepList: 4(program4)2(program2)7(program7)
+IOWait List: Empty
+
+[370 Cycle] Scheduled Process: 3 program3
+Running Process: Process#3 running code program3 line 68(op 3, arg 0)
+RunQueue: 0(program0)9(program9)6(program6)5(program5)1(program1)
+SleepList: 4(program4)2(program2)7(program7)
+IOWait List: Empty
+
+[371 Cycle] Scheduled Process: None
+Running Process: Process#3 running code program3 line 69(op 3, arg 0)
+RunQueue: 0(program0)9(program9)6(program6)5(program5)1(program1)
+SleepList: 4(program4)2(program2)7(program7)
+IOWait List: Empty
+
+[372 Cycle] Scheduled Process: None
+Running Process: Process#3 running code program3 line 70(op 3, arg 0)
+RunQueue: 0(program0)9(program9)6(program6)5(program5)1(program1)
+SleepList: 4(program4)2(program2)7(program7)
+IOWait List: Empty
+
+[373 Cycle] Scheduled Process: None
+Running Process: Process#3 running code program3 line 71(op 3, arg 0)
+RunQueue: 0(program0)9(program9)6(program6)5(program5)1(program1)
+SleepList: 4(program4)2(program2)7(program7)
+IOWait List: Empty
+
+[374 Cycle] Scheduled Process: None
+Running Process: Process#3 running code program3 line 72(op 3, arg 0)
+RunQueue: 0(program0)9(program9)6(program6)5(program5)1(program1)
+SleepList: 4(program4)2(program2)7(program7)
+IOWait List: Empty
+
+[375 Cycle] Scheduled Process: None
+Running Process: Process#3 running code program3 line 73(op 4, arg 22)
+RunQueue: 0(program0)9(program9)6(program6)5(program5)1(program1)
+SleepList: 4(program4)2(program2)7(program7)3(program3)
+IOWait List: Empty
+
+[376 Cycle] Scheduled Process: None
+Running Process: Process#5 running code program5 line 14(op 3, arg 0)
+RunQueue: 0(program0)9(program9)6(program6)1(program1)
+SleepList: 4(program4)2(program2)7(program7)3(program3)
+IOWait List: Empty
+
+[377 Cycle] Scheduled Process: None
+Running Process: Process#5 running code program5 line 15(op 3, arg 0)
+RunQueue: 0(program0)9(program9)6(program6)1(program1)
+SleepList: 4(program4)2(program2)7(program7)3(program3)
+IOWait List: Empty
+
+[378 Cycle] Scheduled Process: None
+Running Process: Process#5 running code program5 line 16(op 3, arg 0)
+RunQueue: 0(program0)9(program9)6(program6)1(program1)
+SleepList: 4(program4)2(program2)7(program7)3(program3)
+IOWait List: Empty
+
+[379 Cycle] Scheduled Process: 7 program7
+Running Process: Process#7 running code program7 line 50(op 3, arg 0)
+RunQueue: 0(program0)9(program9)6(program6)1(program1)5(program5)
+SleepList: 4(program4)2(program2)3(program3)
+IOWait List: Empty
+
+[380 Cycle] Scheduled Process: None
+Running Process: Process#7 running code program7 line 51(op 3, arg 0)
+RunQueue: 0(program0)9(program9)6(program6)1(program1)5(program5)
+SleepList: 4(program4)2(program2)3(program3)
+IOWait List: Empty
+
+[381 Cycle] Scheduled Process: None
+Running Process: Process#7 running code program7 line 52(op 4, arg 15)
+RunQueue: 0(program0)9(program9)6(program6)1(program1)5(program5)4(program4)
+SleepList: 2(program2)3(program3)7(program7)
+IOWait List: Empty
+
+[382 Cycle] Scheduled Process: 4 program4
+Running Process: Process#4 running code program4 line 53(op 3, arg 0)
+RunQueue: 0(program0)9(program9)6(program6)1(program1)5(program5)
+SleepList: 2(program2)3(program3)7(program7)
+IOWait List: Empty
+
+[383 Cycle] Scheduled Process: None
+Running Process: Process#4 running code program4 line 54(op 3, arg 0)
+RunQueue: 0(program0)9(program9)6(program6)1(program1)5(program5)2(program2)
+SleepList: 3(program3)7(program7)
+IOWait List: Empty
+
+[384 Cycle] Scheduled Process: None
+Running Process: Process#4 running code program4 line 55(op 4, arg 24)
+RunQueue: 0(program0)9(program9)6(program6)1(program1)5(program5)2(program2)
+SleepList: 3(program3)7(program7)4(program4)
+IOWait List: Empty
+
+[385 Cycle] Scheduled Process: 2 program2
+Running Process: Process#2 running code program2 line 82(op 3, arg 0)
+RunQueue: 0(program0)9(program9)6(program6)1(program1)5(program5)
+SleepList: 3(program3)7(program7)4(program4)
+IOWait List: Empty
+
+[386 Cycle] Scheduled Process: None
+Running Process: Process#2 running code program2 line 83(op 3, arg 0)
+RunQueue: 0(program0)9(program9)6(program6)1(program1)5(program5)
+SleepList: 3(program3)7(program7)4(program4)
+IOWait List: Empty
+
+[387 Cycle] Scheduled Process: None
+Running Process: Process#2 running code program2 line 84(op 3, arg 0)
+RunQueue: 0(program0)9(program9)6(program6)1(program1)5(program5)
+SleepList: 3(program3)7(program7)4(program4)
+IOWait List: Empty
+
+[388 Cycle] Scheduled Process: None
+Running Process: Process#2 running code program2 line 85(op 3, arg 0)
+RunQueue: 0(program0)9(program9)6(program6)1(program1)5(program5)
+SleepList: 3(program3)7(program7)4(program4)
+IOWait List: Empty
+
+[389 Cycle] Scheduled Process: None
+Running Process: Process#2 running code program2 line 86(op 4, arg 12)
+RunQueue: 0(program0)9(program9)6(program6)1(program1)5(program5)
+SleepList: 3(program3)7(program7)4(program4)2(program2)
+IOWait List: Empty
+
+[390 Cycle] Scheduled Process: None
+Running Process: Process#5 running code program5 line 17(op 3, arg 0)
+RunQueue: 0(program0)9(program9)6(program6)1(program1)
+SleepList: 3(program3)7(program7)4(program4)2(program2)
+IOWait List: Empty
+
+[391 Cycle] Scheduled Process: None
+Running Process: Process#5 running code program5 line 18(op 3, arg 0)
+RunQueue: 0(program0)9(program9)6(program6)1(program1)
+SleepList: 3(program3)7(program7)4(program4)2(program2)
+IOWait List: Empty
+
+[392 Cycle] Scheduled Process: None
+Running Process: Process#5 running code program5 line 19(op 3, arg 0)
+RunQueue: 0(program0)9(program9)6(program6)1(program1)
+SleepList: 3(program3)7(program7)4(program4)2(program2)
+IOWait List: Empty
+
+[393 Cycle] Scheduled Process: None
+Running Process: Process#5 running code program5 line 20(op 3, arg 0)
+RunQueue: 0(program0)9(program9)6(program6)1(program1)
+SleepList: 3(program3)7(program7)4(program4)2(program2)
+IOWait List: Empty
+
+[394 Cycle] Scheduled Process: None
+Running Process: Process#5 running code program5 line 21(op 3, arg 0)
+RunQueue: 0(program0)9(program9)6(program6)1(program1)
+SleepList: 3(program3)7(program7)4(program4)2(program2)
+IOWait List: Empty
+
+[395 Cycle] Scheduled Process: None
+Running Process: Process#5 running code program5 line 22(op 3, arg 0)
+RunQueue: 0(program0)9(program9)6(program6)1(program1)
+SleepList: 3(program3)7(program7)4(program4)2(program2)
+IOWait List: Empty
+
+[396 Cycle] Scheduled Process: None
+Running Process: Process#5 running code program5 line 23(op 4, arg 10)
+RunQueue: 0(program0)9(program9)6(program6)1(program1)7(program7)
+SleepList: 3(program3)4(program4)2(program2)5(program5)
+IOWait List: Empty
+
+[397 Cycle] Scheduled Process: 7 program7
+Running Process: Process#7 running code program7 line 53(op 3, arg 0)
+RunQueue: 0(program0)9(program9)6(program6)1(program1)3(program3)
+SleepList: 4(program4)2(program2)5(program5)
+IOWait List: Empty
+
+[398 Cycle] Scheduled Process: None
+Running Process: Process#7 running code program7 line 54(op 3, arg 0)
+RunQueue: 0(program0)9(program9)6(program6)1(program1)3(program3)
+SleepList: 4(program4)2(program2)5(program5)
+IOWait List: Empty
+
+[399 Cycle] Scheduled Process: None
+Running Process: Process#7 running code program7 line 55(op 4, arg 16)
+RunQueue: 0(program0)9(program9)6(program6)1(program1)3(program3)
+SleepList: 4(program4)2(program2)5(program5)7(program7)
+IOWait List: Empty
+
+[400 Cycle] Scheduled Process: 3 program3
+Running Process: Process#3 running code program3 line 74(op 3, arg 0)
+RunQueue: 0(program0)9(program9)6(program6)1(program1)
+SleepList: 4(program4)2(program2)5(program5)7(program7)
+IOWait List: Empty
+
+[401 Cycle] Scheduled Process: None
+Running Process: Process#3 running code program3 line 75(op 3, arg 0)
+RunQueue: 0(program0)9(program9)6(program6)1(program1)2(program2)
+SleepList: 4(program4)5(program5)7(program7)
+IOWait List: Empty
+
+[402 Cycle] Scheduled Process: None
+Running Process: Process#3 running code program3 line 76(op 3, arg 0)
+RunQueue: 0(program0)9(program9)6(program6)1(program1)2(program2)
+SleepList: 4(program4)5(program5)7(program7)
+IOWait List: Empty
+
+[403 Cycle] Scheduled Process: None
+Running Process: Process#3 running code program3 line 77(op 3, arg 0)
+RunQueue: 0(program0)9(program9)6(program6)1(program1)2(program2)
+SleepList: 4(program4)5(program5)7(program7)
+IOWait List: Empty
+
+[404 Cycle] Scheduled Process: None
+Running Process: Process#3 running code program3 line 78(op 3, arg 0)
+RunQueue: 0(program0)9(program9)6(program6)1(program1)2(program2)
+SleepList: 4(program4)5(program5)7(program7)
+IOWait List: Empty
+
+[405 Cycle] Scheduled Process: None
+Running Process: Process#3 running code program3 line 79(op 4, arg 11)
+RunQueue: 0(program0)9(program9)6(program6)1(program1)2(program2)
+SleepList: 4(program4)5(program5)7(program7)3(program3)
+IOWait List: Empty
+
+[406 Cycle] Scheduled Process: 2 program2
+Running Process: Process#2 running code program2 line 87(op 3, arg 0)
+RunQueue: 0(program0)9(program9)6(program6)1(program1)5(program5)
+SleepList: 4(program4)7(program7)3(program3)
+IOWait List: Empty
+
+[407 Cycle] Scheduled Process: None
+Running Process: Process#2 running code program2 line 88(op 3, arg 0)
+RunQueue: 0(program0)9(program9)6(program6)1(program1)5(program5)
+SleepList: 4(program4)7(program7)3(program3)
+IOWait List: Empty
+
+[408 Cycle] Scheduled Process: None
+Running Process: Process#2 running code program2 line 89(op 3, arg 0)
+RunQueue: 0(program0)9(program9)6(program6)1(program1)5(program5)4(program4)
+SleepList: 7(program7)3(program3)
+IOWait List: Empty
+
+[409 Cycle] Scheduled Process: None
+Running Process: Process#2 running code program2 line 90(op 3, arg 0)
+RunQueue: 0(program0)9(program9)6(program6)1(program1)5(program5)4(program4)
+SleepList: 7(program7)3(program3)
+IOWait List: Empty
+
+[410 Cycle] Scheduled Process: 4 program4
+Running Process: Process#4 running code program4 line 56(op 3, arg 0)
+RunQueue: 0(program0)9(program9)6(program6)1(program1)5(program5)
+SleepList: 7(program7)3(program3)
+IOWait List: Empty
+
+[411 Cycle] Scheduled Process: None
+Running Process: Process#4 running code program4 line 57(op 3, arg 0)
+RunQueue: 0(program0)9(program9)6(program6)1(program1)5(program5)
+SleepList: 7(program7)3(program3)
+IOWait List: Empty
+
+[412 Cycle] Scheduled Process: None
+Running Process: Process#4 running code program4 line 58(op 4, arg 19)
+RunQueue: 0(program0)9(program9)6(program6)1(program1)5(program5)
+SleepList: 7(program7)3(program3)4(program4)
+IOWait List: Empty
+
+[413 Cycle] Scheduled Process: 6 program6
+Running Process: Process#6 running code program6 line 20(op 3, arg 0)
+RunQueue: 0(program0)9(program9)1(program1)5(program5)
+SleepList: 7(program7)3(program3)4(program4)
+IOWait List: Empty
+
+[414 Cycle] Scheduled Process: None
+Running Process: Process#6 running code program6 line 21(op 3, arg 0)
+RunQueue: 0(program0)9(program9)1(program1)5(program5)
+SleepList: 7(program7)3(program3)4(program4)
+IOWait List: Empty
+
+[415 Cycle] Scheduled Process: 7 program7
+Running Process: Process#7 running code program7 line 56(op 3, arg 0)
+RunQueue: 0(program0)9(program9)1(program1)5(program5)6(program6)
+SleepList: 3(program3)4(program4)
+IOWait List: Empty
+
+[416 Cycle] Scheduled Process: None
+Running Process: Process#7 running code program7 line 57(op 3, arg 0)
+RunQueue: 0(program0)9(program9)1(program1)5(program5)6(program6)3(program3)
+SleepList: 4(program4)
+IOWait List: Empty
+
+[417 Cycle] Scheduled Process: None
+Running Process: Process#7 running code program7 line 58(op 4, arg 19)
+RunQueue: 0(program0)9(program9)1(program1)5(program5)6(program6)3(program3)
+SleepList: 4(program4)7(program7)
+IOWait List: Empty
+
+[418 Cycle] Scheduled Process: 3 program3
+Running Process: Process#3 running code program3 line 80(op 3, arg 0)
+RunQueue: 0(program0)9(program9)1(program1)5(program5)6(program6)
+SleepList: 4(program4)7(program7)
+IOWait List: Empty
+
+[419 Cycle] Scheduled Process: None
+Running Process: Process#3 running code program3 line 81(op 3, arg 0)
+RunQueue: 0(program0)9(program9)1(program1)5(program5)6(program6)
+SleepList: 4(program4)7(program7)
+IOWait List: Empty
+
+[420 Cycle] Scheduled Process: None
+Running Process: Process#3 running code program3 line 82(op 3, arg 0)
+RunQueue: 0(program0)9(program9)1(program1)5(program5)6(program6)
+SleepList: 4(program4)7(program7)
+IOWait List: Empty
+
+[421 Cycle] Scheduled Process: None
+Running Process: Process#3 running code program3 line 83(op 3, arg 0)
+RunQueue: 0(program0)9(program9)1(program1)5(program5)6(program6)
+SleepList: 4(program4)7(program7)
+IOWait List: Empty
+
+[422 Cycle] Scheduled Process: None
+Running Process: Process#3 running code program3 line 84(op 3, arg 0)
+RunQueue: 0(program0)9(program9)1(program1)5(program5)6(program6)
+SleepList: 4(program4)7(program7)
+IOWait List: Empty
+
+[423 Cycle] Scheduled Process: None
+Running Process: Process#3 running code program3 line 85(op 4, arg 20)
+RunQueue: 0(program0)9(program9)1(program1)5(program5)6(program6)
+SleepList: 4(program4)7(program7)3(program3)
+IOWait List: Empty
+
+[424 Cycle] Scheduled Process: None
+Running Process: Process#6 running code program6 line 22(op 3, arg 0)
+RunQueue: 0(program0)9(program9)1(program1)5(program5)
+SleepList: 4(program4)7(program7)3(program3)
+IOWait List: Empty
+
+[425 Cycle] Scheduled Process: None
+Running Process: Process#6 running code program6 line 23(op 3, arg 0)
+RunQueue: 0(program0)9(program9)1(program1)5(program5)
+SleepList: 4(program4)7(program7)3(program3)
+IOWait List: Empty
+
+[426 Cycle] Scheduled Process: None
+Running Process: Process#6 running code program6 line 24(op 3, arg 0)
+RunQueue: 0(program0)9(program9)1(program1)5(program5)
+SleepList: 4(program4)7(program7)3(program3)
+IOWait List: Empty
+
+[427 Cycle] Scheduled Process: None
+Running Process: Process#6 running code program6 line 25(op 3, arg 0)
+RunQueue: 0(program0)9(program9)1(program1)5(program5)
+SleepList: 4(program4)7(program7)3(program3)
+IOWait List: Empty
+
+[428 Cycle] Scheduled Process: None
+Running Process: Process#6 running code program6 line 26(op 3, arg 0)
+RunQueue: 0(program0)9(program9)1(program1)5(program5)
+SleepList: 4(program4)7(program7)3(program3)
+IOWait List: Empty
+
+[429 Cycle] Scheduled Process: None
+Running Process: Process#6 running code program6 line 27(op 3, arg 0)
+RunQueue: 0(program0)9(program9)1(program1)5(program5)
+SleepList: 4(program4)7(program7)3(program3)
+IOWait List: Empty
+
+[430 Cycle] Scheduled Process: None
+Running Process: Process#6 running code program6 line 28(op 4, arg 9)
+RunQueue: 0(program0)9(program9)1(program1)5(program5)
+SleepList: 4(program4)7(program7)3(program3)6(program6)
+IOWait List: Empty
+
+[431 Cycle] Scheduled Process: 4 program4
+Running Process: Process#4 running code program4 line 59(op 3, arg 0)
+RunQueue: 0(program0)9(program9)1(program1)5(program5)
+SleepList: 7(program7)3(program3)6(program6)
+IOWait List: Empty
+
+[432 Cycle] Scheduled Process: None
+Running Process: Process#4 running code program4 line 60(op 3, arg 0)
+RunQueue: 0(program0)9(program9)1(program1)5(program5)
+SleepList: 7(program7)3(program3)6(program6)
+IOWait List: Empty
+
+[433 Cycle] Scheduled Process: None
+Running Process: Process#4 running code program4 line 61(op 4, arg 9)
+RunQueue: 0(program0)9(program9)1(program1)5(program5)
+SleepList: 7(program7)3(program3)6(program6)4(program4)
+IOWait List: Empty
+
+[434 Cycle] Scheduled Process: 9 program9
+Running Process: Process#9 running code program9 line 15(op 3, arg 0)
+RunQueue: 0(program0)1(program1)5(program5)
+SleepList: 7(program7)3(program3)6(program6)4(program4)
+IOWait List: Empty
+
+[435 Cycle] Scheduled Process: None
+Running Process: Process#9 running code program9 line 16(op 3, arg 0)
+RunQueue: 0(program0)1(program1)5(program5)
+SleepList: 7(program7)3(program3)6(program6)4(program4)
+IOWait List: Empty
+
+[436 Cycle] Scheduled Process: 7 program7
+Running Process: Process#7 running code program7 line 59(op 3, arg 0)
+RunQueue: 0(program0)1(program1)5(program5)9(program9)
+SleepList: 3(program3)6(program6)4(program4)
+IOWait List: Empty
+
+[437 Cycle] Scheduled Process: None
+Running Process: Process#7 running code program7 line 60(op 3, arg 0)
+RunQueue: 0(program0)1(program1)5(program5)9(program9)
+SleepList: 3(program3)6(program6)4(program4)
+IOWait List: Empty
+
+[438 Cycle] Scheduled Process: None
+Running Process: Process#7 running code program7 line 61(op 4, arg 10)
+RunQueue: 0(program0)1(program1)5(program5)9(program9)
+SleepList: 3(program3)6(program6)4(program4)7(program7)
+IOWait List: Empty
+
+[439 Cycle] Scheduled Process: None
+Running Process: Process#9 running code program9 line 17(op 3, arg 0)
+RunQueue: 0(program0)1(program1)5(program5)6(program6)
+SleepList: 3(program3)4(program4)7(program7)
+IOWait List: Empty
+
+[440 Cycle] Scheduled Process: None
+Running Process: Process#9 running code program9 line 18(op 3, arg 0)
+RunQueue: 0(program0)1(program1)5(program5)6(program6)
+SleepList: 3(program3)4(program4)7(program7)
+IOWait List: Empty
+
+[441 Cycle] Scheduled Process: None
+Running Process: Process#9 running code program9 line 19(op 3, arg 0)
+RunQueue: 0(program0)1(program1)5(program5)6(program6)
+SleepList: 3(program3)4(program4)7(program7)
+IOWait List: Empty
+
+[442 Cycle] Scheduled Process: 4 program4
+Running Process: Process#4 running code program4 line 62(op 3, arg 0)
+RunQueue: 0(program0)1(program1)5(program5)6(program6)9(program9)
+SleepList: 3(program3)7(program7)
+IOWait List: Empty
+
+[443 Cycle] Scheduled Process: None
+Running Process: Process#4 running code program4 line 63(op 3, arg 0)
+RunQueue: 0(program0)1(program1)5(program5)6(program6)9(program9)3(program3)
+SleepList: 7(program7)
+IOWait List: Empty
+
+[444 Cycle] Scheduled Process: None
+Running Process: Process#4 running code program4 line 64(op 4, arg 10)
+RunQueue: 0(program0)1(program1)5(program5)6(program6)9(program9)3(program3)
+SleepList: 7(program7)4(program4)
+IOWait List: Empty
+
+[445 Cycle] Scheduled Process: 3 program3
+Running Process: Process#3 running code program3 line 86(op 3, arg 0)
+RunQueue: 0(program0)1(program1)5(program5)6(program6)9(program9)
+SleepList: 7(program7)4(program4)
+IOWait List: Empty
+
+[446 Cycle] Scheduled Process: None
+Running Process: Process#3 running code program3 line 87(op 3, arg 0)
+RunQueue: 0(program0)1(program1)5(program5)6(program6)9(program9)
+SleepList: 7(program7)4(program4)
+IOWait List: Empty
+
+[447 Cycle] Scheduled Process: None
+Running Process: Process#3 running code program3 line 88(op 3, arg 0)
+RunQueue: 0(program0)1(program1)5(program5)6(program6)9(program9)
+SleepList: 7(program7)4(program4)
+IOWait List: Empty
+
+[448 Cycle] Scheduled Process: 7 program7
+Running Process: Process#7 running code program7 line 62(op 3, arg 0)
+RunQueue: 0(program0)1(program1)5(program5)6(program6)9(program9)
+SleepList: 4(program4)
+IOWait List: Empty
+
+[449 Cycle] Scheduled Process: None
+Running Process: Process#7 running code program7 line 63(op 3, arg 0)
+RunQueue: 0(program0)1(program1)5(program5)6(program6)9(program9)
+SleepList: 4(program4)
+IOWait List: Empty
+
+[450 Cycle] Scheduled Process: None
+Running Process: Process#7 running code program7 line 64(op 4, arg 19)
+RunQueue: 0(program0)1(program1)5(program5)6(program6)9(program9)
+SleepList: 4(program4)7(program7)
+IOWait List: Empty
+
+[451 Cycle] Scheduled Process: None
+Running Process: Process#9 running code program9 line 20(op 3, arg 0)
+RunQueue: 0(program0)1(program1)5(program5)6(program6)
+SleepList: 4(program4)7(program7)
+IOWait List: Empty
+
+[452 Cycle] Scheduled Process: None
+Running Process: Process#9 running code program9 line 21(op 3, arg 0)
+RunQueue: 0(program0)1(program1)5(program5)6(program6)
+SleepList: 4(program4)7(program7)
+IOWait List: Empty
+
+[453 Cycle] Scheduled Process: None
+Running Process: Process#9 running code program9 line 22(op 3, arg 0)
+RunQueue: 0(program0)1(program1)5(program5)6(program6)
+SleepList: 4(program4)7(program7)
+IOWait List: Empty
+
+[454 Cycle] Scheduled Process: None
+Running Process: Process#9 running code program9 line 23(op 3, arg 0)
+RunQueue: 0(program0)1(program1)5(program5)6(program6)4(program4)
+SleepList: 7(program7)
+IOWait List: Empty
+
+[455 Cycle] Scheduled Process: None
+Running Process: Process#9 running code program9 line 24(op 3, arg 0)
+RunQueue: 0(program0)1(program1)5(program5)6(program6)4(program4)
+SleepList: 7(program7)
+IOWait List: Empty
+
+[456 Cycle] Scheduled Process: None
+Running Process: Process#9 running code program9 line 25(op 3, arg 0)
+RunQueue: 0(program0)1(program1)5(program5)6(program6)4(program4)
+SleepList: 7(program7)
+IOWait List: Empty
+
+[457 Cycle] Scheduled Process: None
+Running Process: Process#9 running code program9 line 26(op 3, arg 0)
+RunQueue: 0(program0)1(program1)5(program5)6(program6)4(program4)
+SleepList: 7(program7)
+IOWait List: Empty
+
+[458 Cycle] Scheduled Process: None
+Running Process: Process#9 running code program9 line 27(op 4, arg 21)
+RunQueue: 0(program0)1(program1)5(program5)6(program6)4(program4)
+SleepList: 7(program7)9(program9)
+IOWait List: Empty
+
+[459 Cycle] Scheduled Process: 4 program4
+Running Process: Process#4 running code program4 line 65(op 3, arg 0)
+RunQueue: 0(program0)1(program1)5(program5)6(program6)
+SleepList: 7(program7)9(program9)
+IOWait List: Empty
+
+[460 Cycle] Scheduled Process: None
+Running Process: Process#4 running code program4 line 66(op 3, arg 0)
+RunQueue: 0(program0)1(program1)5(program5)6(program6)
+SleepList: 7(program7)9(program9)
+IOWait List: Empty
+
+[461 Cycle] Scheduled Process: None
+Running Process: Process#4 running code program4 line 67(op 4, arg 5)
+RunQueue: 0(program0)1(program1)5(program5)6(program6)
+SleepList: 7(program7)9(program9)4(program4)
+IOWait List: Empty
+
+[462 Cycle] Scheduled Process: 6 program6
+Running Process: Process#6 running code program6 line 29(op 3, arg 0)
+RunQueue: 0(program0)1(program1)5(program5)
+SleepList: 7(program7)9(program9)4(program4)
+IOWait List: Empty
+
+[463 Cycle] Scheduled Process: None
+Running Process: Process#6 running code program6 line 30(op 3, arg 0)
+RunQueue: 0(program0)1(program1)5(program5)
+SleepList: 7(program7)9(program9)4(program4)
+IOWait List: Empty
+
+[464 Cycle] Scheduled Process: None
+Running Process: Process#6 running code program6 line 31(op 3, arg 0)
+RunQueue: 0(program0)1(program1)5(program5)
+SleepList: 7(program7)9(program9)4(program4)
+IOWait List: Empty
+
+[465 Cycle] Scheduled Process: None
+Running Process: Process#6 running code program6 line 32(op 3, arg 0)
+RunQueue: 0(program0)1(program1)5(program5)
+SleepList: 7(program7)9(program9)4(program4)
+IOWait List: Empty
+
+[466 Cycle] Scheduled Process: 4 program4
+Running Process: Process#4 running code program4 line 68(op 3, arg 0)
+RunQueue: 0(program0)1(program1)5(program5)6(program6)
+SleepList: 7(program7)9(program9)
+IOWait List: Empty
+
+[467 Cycle] Scheduled Process: None
+Running Process: Process#4 running code program4 line 69(op 3, arg 0)
+RunQueue: 0(program0)1(program1)5(program5)6(program6)
+SleepList: 7(program7)9(program9)
+IOWait List: Empty
+
+[468 Cycle] Scheduled Process: None
+Running Process: Process#4 running code program4 line 70(op 4, arg 6)
+RunQueue: 0(program0)1(program1)5(program5)6(program6)
+SleepList: 7(program7)9(program9)4(program4)
+IOWait List: Empty
+
+[469 Cycle] Scheduled Process: 7 program7
+Running Process: Process#7 running code program7 line 65(op 3, arg 0)
+RunQueue: 0(program0)1(program1)5(program5)6(program6)
+SleepList: 9(program9)4(program4)
+IOWait List: Empty
+
+[470 Cycle] Scheduled Process: None
+Running Process: Process#7 running code program7 line 66(op 3, arg 0)
+RunQueue: 0(program0)1(program1)5(program5)6(program6)
+SleepList: 9(program9)4(program4)
+IOWait List: Empty
+
+[471 Cycle] Scheduled Process: None
+Running Process: Process#7 running code program7 line 67(op 4, arg 25)
+RunQueue: 0(program0)1(program1)5(program5)6(program6)
+SleepList: 9(program9)4(program4)
+IOWait List: Empty
+
+[472 Cycle] Scheduled Process: None
+Running Process: Process#6 running code program6 line 33(op 3, arg 0)
+RunQueue: 0(program0)1(program1)5(program5)
+SleepList: 9(program9)4(program4)
+IOWait List: Empty
+
+[473 Cycle] Scheduled Process: None
+Running Process: Process#6 running code program6 line 34(op 3, arg 0)
+RunQueue: 0(program0)1(program1)5(program5)
+SleepList: 9(program9)4(program4)
+IOWait List: Empty
+
+[474 Cycle] Scheduled Process: None
+Running Process: Process#6 running code program6 line 35(op 3, arg 0)
+RunQueue: 0(program0)1(program1)5(program5)4(program4)
+SleepList: 9(program9)
+IOWait List: Empty
+
+[475 Cycle] Scheduled Process: None
+Running Process: Process#6 running code program6 line 36(op 3, arg 0)
+RunQueue: 0(program0)1(program1)5(program5)4(program4)
+SleepList: 9(program9)
+IOWait List: Empty
+
+[476 Cycle] Scheduled Process: None
+Running Process: Process#6 running code program6 line 37(op 4, arg 18)
+RunQueue: 0(program0)1(program1)5(program5)4(program4)
+SleepList: 9(program9)6(program6)
+IOWait List: Empty
+
+[477 Cycle] Scheduled Process: 4 program4
+Running Process: Process#4 running code program4 line 71(op 3, arg 0)
+RunQueue: 0(program0)1(program1)5(program5)
+SleepList: 9(program9)6(program6)
+IOWait List: Empty
+
+[478 Cycle] Scheduled Process: None
+Running Process: Process#4 running code program4 line 72(op 3, arg 0)
+RunQueue: 0(program0)1(program1)5(program5)
+SleepList: 9(program9)6(program6)
+IOWait List: Empty
+
+[479 Cycle] Scheduled Process: None
+Running Process: Process#4 running code program4 line 73(op 4, arg 17)
+RunQueue: 0(program0)1(program1)5(program5)9(program9)
+SleepList: 6(program6)
+IOWait List: Empty
+
+[480 Cycle] Scheduled Process: None
+Running Process: Process#0 running code program0 line 30(op 3, arg 0)
+RunQueue: 1(program1)5(program5)9(program9)
+SleepList: 6(program6)
+IOWait List: Empty
+
+[481 Cycle] Scheduled Process: None
+Running Process: Process#0 running code program0 line 31(op 3, arg 0)
+RunQueue: 1(program1)5(program5)9(program9)
+SleepList: 6(program6)
+IOWait List: Empty
+
+[482 Cycle] Scheduled Process: None
+Running Process: Process#0 running code program0 line 32(op 3, arg 0)
+RunQueue: 1(program1)5(program5)9(program9)
+SleepList: 6(program6)
+IOWait List: Empty
+
+[483 Cycle] Scheduled Process: None
+Running Process: Process#0 running code program0 line 33(op 3, arg 0)
+RunQueue: 1(program1)5(program5)9(program9)
+SleepList: 6(program6)
+IOWait List: Empty
+
+[484 Cycle] Scheduled Process: None
+Running Process: Process#0 running code program0 line 34(op 4, arg 19)
+RunQueue: 1(program1)5(program5)9(program9)
+SleepList: 6(program6)0(program0)
+IOWait List: Empty
+
+[485 Cycle] Scheduled Process: 1 program1
+Running Process: Process#1 running code program1 line 24(op 3, arg 0)
+RunQueue: 5(program5)9(program9)
+SleepList: 6(program6)0(program0)
+IOWait List: Empty
+
+[486 Cycle] Scheduled Process: None
+Running Process: Process#1 running code program1 line 25(op 3, arg 0)
+RunQueue: 5(program5)9(program9)
+SleepList: 6(program6)0(program0)
+IOWait List: Empty
+
+[487 Cycle] Scheduled Process: None
+Running Process: Process#1 running code program1 line 26(op 3, arg 0)
+RunQueue: 5(program5)9(program9)
+SleepList: 6(program6)0(program0)
+IOWait List: Empty
+
+[488 Cycle] Scheduled Process: None
+Running Process: Process#1 running code program1 line 27(op 3, arg 0)
+RunQueue: 5(program5)9(program9)
+SleepList: 6(program6)0(program0)
+IOWait List: Empty
+
+[489 Cycle] Scheduled Process: None
+Running Process: Process#1 running code program1 line 28(op 3, arg 0)
+RunQueue: 5(program5)9(program9)
+SleepList: 6(program6)0(program0)
+IOWait List: Empty
+
+[490 Cycle] Scheduled Process: None
+Running Process: Process#1 running code program1 line 29(op 3, arg 0)
+RunQueue: 5(program5)9(program9)
+SleepList: 6(program6)0(program0)
+IOWait List: Empty
+
+[491 Cycle] Scheduled Process: None
+Running Process: Process#1 running code program1 line 30(op 3, arg 0)
+RunQueue: 5(program5)9(program9)
+SleepList: 6(program6)0(program0)
+IOWait List: Empty
+
+[492 Cycle] Scheduled Process: None
+Running Process: Process#1 running code program1 line 31(op 3, arg 0)
+RunQueue: 5(program5)9(program9)
+SleepList: 6(program6)0(program0)
+IOWait List: Empty
+
+[493 Cycle] Scheduled Process: None
+Running Process: Process#1 running code program1 line 32(op 3, arg 0)
+RunQueue: 5(program5)9(program9)
+SleepList: 6(program6)0(program0)
+IOWait List: Empty
+
+[494 Cycle] Scheduled Process: None
+Running Process: Process#1 running code program1 line 33(op 3, arg 0)
+RunQueue: 5(program5)9(program9)6(program6)
+SleepList: 0(program0)
+IOWait List: Empty
+
+[495 Cycle] Scheduled Process: None
+Running Process: Process#1 running code program1 line 34(op 4, arg 4)
+RunQueue: 5(program5)9(program9)6(program6)
+SleepList: 0(program0)1(program1)
+IOWait List: Empty
+
+[496 Cycle] Scheduled Process: 6 program6
+Running Process: Process#6 running code program6 line 38(op 3, arg 0)
+RunQueue: 5(program5)9(program9)
+SleepList: 0(program0)1(program1)
+IOWait List: Empty
+
+[497 Cycle] Scheduled Process: None
+Running Process: Process#6 running code program6 line 39(op 3, arg 0)
+RunQueue: 5(program5)9(program9)
+SleepList: 0(program0)1(program1)
+IOWait List: Empty
+
+[498 Cycle] Scheduled Process: None
+Running Process: Process#6 running code program6 line 40(op 3, arg 0)
+RunQueue: 5(program5)9(program9)
+SleepList: 0(program0)1(program1)
+IOWait List: Empty
+
+[499 Cycle] Scheduled Process: None
+Running Process: Process#6 running code program6 line 41(op 3, arg 0)
+RunQueue: 5(program5)9(program9)1(program1)
+SleepList: 0(program0)
+IOWait List: Empty
+
+[500 Cycle] Scheduled Process: None
+Running Process: Process#6 running code program6 line 42(op 3, arg 0)
+RunQueue: 5(program5)9(program9)1(program1)
+SleepList: 0(program0)
+IOWait List: Empty
+
+[501 Cycle] Scheduled Process: None
+Running Process: Process#6 running code program6 line 43(op 3, arg 0)
+RunQueue: 5(program5)9(program9)1(program1)
+SleepList: 0(program0)
+IOWait List: Empty
+
+[502 Cycle] Scheduled Process: None
+Running Process: Process#6 running code program6 line 44(op 3, arg 0)
+RunQueue: 5(program5)9(program9)1(program1)
+SleepList: 0(program0)
+IOWait List: Empty
+
+[503 Cycle] Scheduled Process: None
+Running Process: Process#6 running code program6 line 45(op 3, arg 0)
+RunQueue: 5(program5)9(program9)1(program1)0(program0)
+SleepList: Empty
+IOWait List: Empty
+
+[504 Cycle] Scheduled Process: None
+Running Process: Process#6 running code program6 line 46(op 4, arg 22)
+RunQueue: 5(program5)9(program9)1(program1)0(program0)
+SleepList: 6(program6)
+IOWait List: Empty
+
+[505 Cycle] Scheduled Process: 5 program5
+Running Process: Process#5 running code program5 line 24(op 3, arg 0)
+RunQueue: 9(program9)1(program1)0(program0)
+SleepList: 6(program6)
+IOWait List: Empty
+
+[506 Cycle] Scheduled Process: None
+Running Process: Process#5 running code program5 line 25(op 3, arg 0)
+RunQueue: 9(program9)1(program1)0(program0)
+SleepList: 6(program6)
+IOWait List: Empty
+
+[507 Cycle] Scheduled Process: None
+Running Process: Process#5 running code program5 line 26(op 3, arg 0)
+RunQueue: 9(program9)1(program1)0(program0)
+SleepList: 6(program6)
+IOWait List: Empty
+
+[508 Cycle] Scheduled Process: None
+Running Process: Process#5 running code program5 line 27(op 3, arg 0)
+RunQueue: 9(program9)1(program1)0(program0)
+SleepList: 6(program6)
+IOWait List: Empty
+
+[509 Cycle] Scheduled Process: None
+Running Process: Process#5 running code program5 line 28(op 3, arg 0)
+RunQueue: 9(program9)1(program1)0(program0)
+SleepList: 6(program6)
+IOWait List: Empty
+
+[510 Cycle] Scheduled Process: None
+Running Process: Process#5 running code program5 line 29(op 3, arg 0)
+RunQueue: 9(program9)1(program1)0(program0)
+SleepList: 6(program6)
+IOWait List: Empty
+
+[511 Cycle] Scheduled Process: None
+Running Process: Process#5 running code program5 line 30(op 3, arg 0)
+RunQueue: 9(program9)1(program1)0(program0)
+SleepList: 6(program6)
+IOWait List: Empty
+
+[512 Cycle] Scheduled Process: None
+Running Process: Process#5 running code program5 line 31(op 3, arg 0)
+RunQueue: 9(program9)1(program1)0(program0)
+SleepList: 6(program6)
+IOWait List: Empty
+
+[513 Cycle] Scheduled Process: None
+Running Process: Process#5 running code program5 line 32(op 3, arg 0)
+RunQueue: 9(program9)1(program1)0(program0)
+SleepList: 6(program6)
+IOWait List: Empty
+
+[514 Cycle] Scheduled Process: None
+Running Process: Process#5 running code program5 line 33(op 3, arg 0)
+RunQueue: 9(program9)1(program1)0(program0)
+SleepList: 6(program6)
+IOWait List: Empty
+
+[515 Cycle] Scheduled Process: None
+Running Process: Process#5 running code program5 line 34(op 4, arg 3)
+RunQueue: 9(program9)1(program1)0(program0)
+SleepList: 6(program6)5(program5)
+IOWait List: Empty
+
+[516 Cycle] Scheduled Process: 1 program1
+Running Process: Process#1 running code program1 line 35(op 3, arg 0)
+RunQueue: 9(program9)0(program0)
+SleepList: 6(program6)5(program5)
+IOWait List: Empty
+
+[517 Cycle] Scheduled Process: None
+Running Process: Process#1 running code program1 line 36(op 3, arg 0)
+RunQueue: 9(program9)0(program0)
+SleepList: 6(program6)5(program5)
+IOWait List: Empty
+
+[518 Cycle] Scheduled Process: None
+Running Process: Process#1 running code program1 line 37(op 3, arg 0)
+RunQueue: 9(program9)0(program0)5(program5)
+SleepList: 6(program6)
+IOWait List: Empty
+
+[519 Cycle] Scheduled Process: None
+Running Process: Process#1 running code program1 line 38(op 3, arg 0)
+RunQueue: 9(program9)0(program0)5(program5)
+SleepList: 6(program6)
+IOWait List: Empty
+
+[520 Cycle] Scheduled Process: None
+Running Process: Process#1 running code program1 line 39(op 3, arg 0)
+RunQueue: 9(program9)0(program0)5(program5)
+SleepList: 6(program6)
+IOWait List: Empty
+
+[521 Cycle] Scheduled Process: None
+Running Process: Process#1 running code program1 line 40(op 3, arg 0)
+RunQueue: 9(program9)0(program0)5(program5)
+SleepList: 6(program6)
+IOWait List: Empty
+
+[522 Cycle] Scheduled Process: None
+Running Process: Process#1 running code program1 line 41(op 3, arg 0)
+RunQueue: 9(program9)0(program0)5(program5)
+SleepList: 6(program6)
+IOWait List: Empty
+
+[523 Cycle] Scheduled Process: None
+Running Process: Process#1 running code program1 line 42(op 3, arg 0)
+RunQueue: 9(program9)0(program0)5(program5)
+SleepList: 6(program6)
+IOWait List: Empty
+
+[524 Cycle] Scheduled Process: None
+Running Process: Process#1 running code program1 line 43(op 3, arg 0)
+RunQueue: 9(program9)0(program0)5(program5)
+SleepList: 6(program6)
+IOWait List: Empty
+
+[525 Cycle] Scheduled Process: None
+Running Process: Process#1 running code program1 line 44(op 3, arg 0)
+RunQueue: 9(program9)0(program0)5(program5)
+SleepList: 6(program6)
+IOWait List: Empty
+
+[526 Cycle] Scheduled Process: None
+Running Process: Process#1 running code program1 line 45(op 4, arg 21)
+RunQueue: 9(program9)0(program0)5(program5)6(program6)
+SleepList: 1(program1)
+IOWait List: Empty
+
+[527 Cycle] Scheduled Process: 6 program6
+Running Process: Process#6 running code program6 line 47(op 3, arg 0)
+RunQueue: 9(program9)0(program0)5(program5)
+SleepList: 1(program1)
+IOWait List: Empty
+
+[528 Cycle] Scheduled Process: None
+Running Process: Process#6 running code program6 line 48(op 3, arg 0)
+RunQueue: 9(program9)0(program0)5(program5)
+SleepList: 1(program1)
+IOWait List: Empty
+
+[529 Cycle] Scheduled Process: None
+Running Process: Process#6 running code program6 line 49(op 3, arg 0)
+RunQueue: 9(program9)0(program0)5(program5)
+SleepList: 1(program1)
+IOWait List: Empty
+
+[530 Cycle] Scheduled Process: None
+Running Process: Process#6 running code program6 line 50(op 3, arg 0)
+RunQueue: 9(program9)0(program0)5(program5)
+SleepList: 1(program1)
+IOWait List: Empty
+
+[531 Cycle] Scheduled Process: None
+Running Process: Process#6 running code program6 line 51(op 3, arg 0)
+RunQueue: 9(program9)0(program0)5(program5)
+SleepList: 1(program1)
+IOWait List: Empty
+
+[532 Cycle] Scheduled Process: None
+Running Process: Process#6 running code program6 line 52(op 3, arg 0)
+RunQueue: 9(program9)0(program0)5(program5)
+SleepList: 1(program1)
+IOWait List: Empty
+
+[533 Cycle] Scheduled Process: None
+Running Process: Process#6 running code program6 line 53(op 3, arg 0)
+RunQueue: 9(program9)0(program0)5(program5)
+SleepList: 1(program1)
+IOWait List: Empty
+
+[534 Cycle] Scheduled Process: None
+Running Process: Process#6 running code program6 line 54(op 3, arg 0)
+RunQueue: 9(program9)0(program0)5(program5)
+SleepList: 1(program1)
+IOWait List: Empty
+
+[535 Cycle] Scheduled Process: 0 program0
+Running Process: Process#0 running code program0 line 35(op 3, arg 0)
+RunQueue: 9(program9)5(program5)
+SleepList: 1(program1)
+IOWait List: Empty
+
+[536 Cycle] Scheduled Process: None
+Running Process: Process#0 running code program0 line 36(op 3, arg 0)
+RunQueue: 9(program9)5(program5)
+SleepList: 1(program1)
+IOWait List: Empty
+
+[537 Cycle] Scheduled Process: None
+Running Process: Process#0 running code program0 line 37(op 3, arg 0)
+RunQueue: 9(program9)5(program5)
+SleepList: 1(program1)
+IOWait List: Empty
+
+[538 Cycle] Scheduled Process: None
+Running Process: Process#0 running code program0 line 38(op 3, arg 0)
+RunQueue: 9(program9)5(program5)
+SleepList: 1(program1)
+IOWait List: Empty
+
+[539 Cycle] Scheduled Process: None
+Running Process: Process#0 running code program0 line 39(op 3, arg 0)
+RunQueue: 9(program9)5(program5)
+SleepList: 1(program1)
+IOWait List: Empty
+
+[540 Cycle] Scheduled Process: None
+Running Process: Process#0 running code program0 line 40(op 3, arg 0)
+RunQueue: 9(program9)5(program5)
+SleepList: 1(program1)
+IOWait List: Empty
+
+[541 Cycle] Scheduled Process: None
+Running Process: Process#0 running code program0 line 41(op 3, arg 0)
+RunQueue: 9(program9)5(program5)
+SleepList: 1(program1)
+IOWait List: Empty
+
+[542 Cycle] Scheduled Process: None
+Running Process: Process#0 running code program0 line 42(op 3, arg 0)
+RunQueue: 9(program9)5(program5)
+SleepList: 1(program1)
+IOWait List: Empty
+
+[543 Cycle] Scheduled Process: None
+Running Process: Process#0 running code program0 line 43(op 3, arg 0)
+RunQueue: 9(program9)5(program5)
+SleepList: 1(program1)
+IOWait List: Empty
+
+[544 Cycle] Scheduled Process: None
+Running Process: Process#0 running code program0 line 44(op 3, arg 0)
+RunQueue: 9(program9)5(program5)
+SleepList: 1(program1)
+IOWait List: Empty
+
+[545 Cycle] Scheduled Process: None
+Running Process: Process#0 running code program0 line 45(op 4, arg 4)
+RunQueue: 9(program9)5(program5)
+SleepList: 1(program1)0(program0)
+IOWait List: Empty
+
+[546 Cycle] Scheduled Process: 5 program5
+Running Process: Process#5 running code program5 line 35(op 3, arg 0)
+RunQueue: 9(program9)
+SleepList: 1(program1)0(program0)
+IOWait List: Empty
+
+[547 Cycle] Scheduled Process: None
+Running Process: Process#5 running code program5 line 36(op 3, arg 0)
+RunQueue: 9(program9)1(program1)
+SleepList: 0(program0)
+IOWait List: Empty
+
+[548 Cycle] Scheduled Process: None
+Running Process: Process#5 running code program5 line 37(op 3, arg 0)
+RunQueue: 9(program9)1(program1)
+SleepList: 0(program0)
+IOWait List: Empty
+
+[549 Cycle] Scheduled Process: None
+Running Process: Process#5 running code program5 line 38(op 3, arg 0)
+RunQueue: 9(program9)1(program1)0(program0)
+SleepList: Empty
+IOWait List: Empty
+
+[550 Cycle] Scheduled Process: None
+Running Process: Process#5 running code program5 line 39(op 3, arg 0)
+RunQueue: 9(program9)1(program1)0(program0)
+SleepList: Empty
+IOWait List: Empty
+
+[551 Cycle] Scheduled Process: None
+Running Process: Process#5 running code program5 line 40(op 3, arg 0)
+RunQueue: 9(program9)1(program1)0(program0)
+SleepList: Empty
+IOWait List: Empty
+
+[552 Cycle] Scheduled Process: None
+Running Process: Process#5 running code program5 line 41(op 3, arg 0)
+RunQueue: 9(program9)1(program1)0(program0)
+SleepList: Empty
+IOWait List: Empty
+
+[553 Cycle] Scheduled Process: None
+Running Process: Process#5 running code program5 line 42(op 3, arg 0)
+RunQueue: 9(program9)1(program1)0(program0)
+SleepList: Empty
+IOWait List: Empty
+
+[554 Cycle] Scheduled Process: None
+Running Process: Process#5 running code program5 line 43(op 3, arg 0)
+RunQueue: 9(program9)1(program1)0(program0)
+SleepList: Empty
+IOWait List: Empty
+
+[555 Cycle] Scheduled Process: None
+Running Process: Process#5 running code program5 line 44(op 3, arg 0)
+RunQueue: 9(program9)1(program1)0(program0)
+SleepList: Empty
+IOWait List: Empty
+
+[556 Cycle] Scheduled Process: None
+Running Process: Process#5 running code program5 line 45(op 4, arg 15)
+RunQueue: 9(program9)1(program1)0(program0)
+SleepList: 5(program5)
+IOWait List: Empty
+
+[557 Cycle] Scheduled Process: 1 program1
+Running Process: Process#1 running code program1 line 46(op 3, arg 0)
+RunQueue: 9(program9)0(program0)
+SleepList: 5(program5)
+IOWait List: Empty
+
+[558 Cycle] Scheduled Process: None
+Running Process: Process#1 running code program1 line 47(op 3, arg 0)
+RunQueue: 9(program9)0(program0)
+SleepList: 5(program5)
+IOWait List: Empty
+
+[559 Cycle] Scheduled Process: None
+Running Process: Process#1 running code program1 line 48(op 3, arg 0)
+RunQueue: 9(program9)0(program0)
+SleepList: 5(program5)
+IOWait List: Empty
+
+[560 Cycle] Scheduled Process: None
+Running Process: Process#1 running code program1 line 49(op 3, arg 0)
+RunQueue: 9(program9)0(program0)
+SleepList: 5(program5)
+IOWait List: Empty
+
+[561 Cycle] Scheduled Process: None
+Running Process: Process#1 running code program1 line 50(op 3, arg 0)
+RunQueue: 9(program9)0(program0)
+SleepList: 5(program5)
+IOWait List: Empty
+
+[562 Cycle] Scheduled Process: None
+Running Process: Process#1 running code program1 line 51(op 3, arg 0)
+RunQueue: 9(program9)0(program0)
+SleepList: 5(program5)
+IOWait List: Empty
+
+[563 Cycle] Scheduled Process: None
+Running Process: Process#1 running code program1 line 52(op 3, arg 0)
+RunQueue: 9(program9)0(program0)
+SleepList: 5(program5)
+IOWait List: Empty
+
+[564 Cycle] Scheduled Process: 0 program0
+Running Process: Process#0 running code program0 line 46(op 3, arg 0)
+RunQueue: 9(program9)
+SleepList: 5(program5)
+IOWait List: Empty
+
+[565 Cycle] Scheduled Process: None
+Running Process: Process#0 running code program0 line 47(op 3, arg 0)
+RunQueue: 9(program9)
+SleepList: 5(program5)
+IOWait List: Empty
+
+[566 Cycle] Scheduled Process: None
+Running Process: Process#0 running code program0 line 48(op 3, arg 0)
+RunQueue: 9(program9)
+SleepList: 5(program5)
+IOWait List: Empty
+
+[567 Cycle] Scheduled Process: None
+Running Process: Process#0 running code program0 line 49(op 3, arg 0)
+RunQueue: 9(program9)
+SleepList: 5(program5)
+IOWait List: Empty
+
+[568 Cycle] Scheduled Process: None
+Running Process: Process#0 running code program0 line 50(op 3, arg 0)
+RunQueue: 9(program9)
+SleepList: 5(program5)
+IOWait List: Empty
+
+[569 Cycle] Scheduled Process: None
+Running Process: Process#0 running code program0 line 51(op 3, arg 0)
+RunQueue: 9(program9)
+SleepList: 5(program5)
+IOWait List: Empty
+
+[570 Cycle] Scheduled Process: None
+Running Process: Process#0 running code program0 line 52(op 3, arg 0)
+RunQueue: 9(program9)
+SleepList: 5(program5)
+IOWait List: Empty
+
+[571 Cycle] Scheduled Process: None
+Running Process: Process#0 running code program0 line 53(op 3, arg 0)
+RunQueue: 9(program9)5(program5)
+SleepList: Empty
+IOWait List: Empty
+
+[572 Cycle] Scheduled Process: None
+Running Process: Process#0 running code program0 line 54(op 3, arg 0)
+RunQueue: 9(program9)5(program5)
+SleepList: Empty
+IOWait List: Empty
+
+[573 Cycle] Scheduled Process: None
+Running Process: Process#0 running code program0 line 55(op 3, arg 0)
+RunQueue: 9(program9)5(program5)
+SleepList: Empty
+IOWait List: Empty
+
+[574 Cycle] Scheduled Process: None
+Running Process: Process#0 running code program0 line 56(op 4, arg 9)
+RunQueue: 9(program9)5(program5)
+SleepList: 0(program0)
+IOWait List: Empty
+
+[575 Cycle] Scheduled Process: 5 program5
+Running Process: Process#5 running code program5 line 46(op 3, arg 0)
+RunQueue: 9(program9)
+SleepList: 0(program0)
+IOWait List: Empty
+
+[576 Cycle] Scheduled Process: None
+Running Process: Process#5 running code program5 line 47(op 3, arg 0)
+RunQueue: 9(program9)
+SleepList: 0(program0)
+IOWait List: Empty
+
+[577 Cycle] Scheduled Process: None
+Running Process: Process#5 running code program5 line 48(op 3, arg 0)
+RunQueue: 9(program9)
+SleepList: 0(program0)
+IOWait List: Empty
+
+[578 Cycle] Scheduled Process: None
+Running Process: Process#5 running code program5 line 49(op 3, arg 0)
+RunQueue: 9(program9)
+SleepList: 0(program0)
+IOWait List: Empty
+
+[579 Cycle] Scheduled Process: None
+Running Process: Process#5 running code program5 line 50(op 3, arg 0)
+RunQueue: 9(program9)
+SleepList: 0(program0)
+IOWait List: Empty
+
+[580 Cycle] Scheduled Process: None
+Running Process: Process#5 running code program5 line 51(op 3, arg 0)
+RunQueue: 9(program9)
+SleepList: 0(program0)
+IOWait List: Empty
+
+[581 Cycle] Scheduled Process: None
+Running Process: Process#5 running code program5 line 52(op 3, arg 0)
+RunQueue: 9(program9)
+SleepList: 0(program0)
+IOWait List: Empty
+
+[582 Cycle] Scheduled Process: None
+Running Process: Process#5 running code program5 line 53(op 3, arg 0)
+RunQueue: 9(program9)
+SleepList: 0(program0)
+IOWait List: Empty
+
+[583 Cycle] Scheduled Process: None
+Running Process: Process#5 running code program5 line 54(op 3, arg 0)
+RunQueue: 9(program9)0(program0)
+SleepList: Empty
+IOWait List: Empty
+
+[584 Cycle] Scheduled Process: None
+Running Process: Process#5 running code program5 line 55(op 3, arg 0)
+RunQueue: 9(program9)0(program0)
+SleepList: Empty
+IOWait List: Empty
+
+[585 Cycle] Scheduled Process: None
+Running Process: Process#5 running code program5 line 56(op 4, arg 15)
+RunQueue: 9(program9)0(program0)
+SleepList: 5(program5)
+IOWait List: Empty
+
+[586 Cycle] Scheduled Process: 0 program0
+Running Process: Process#0 running code program0 line 57(op 3, arg 0)
+RunQueue: 9(program9)
+SleepList: 5(program5)
+IOWait List: Empty
+
+[587 Cycle] Scheduled Process: None
+Running Process: Process#0 running code program0 line 58(op 3, arg 0)
+RunQueue: 9(program9)
+SleepList: 5(program5)
+IOWait List: Empty
+
+[588 Cycle] Scheduled Process: 9 program9
+Running Process: Process#9 running code program9 line 28(op 3, arg 0)
+RunQueue: Empty
+SleepList: 5(program5)
+IOWait List: Empty
+
+[589 Cycle] Scheduled Process: None
+Running Process: Process#9 running code program9 line 29(op 3, arg 0)
+RunQueue: Empty
+SleepList: 5(program5)
+IOWait List: Empty
+
+[590 Cycle] Scheduled Process: None
+Running Process: Process#9 running code program9 line 30(op 3, arg 0)
+RunQueue: Empty
+SleepList: 5(program5)
+IOWait List: Empty
+
+[591 Cycle] Scheduled Process: None
+Running Process: Process#9 running code program9 line 31(op 3, arg 0)
+RunQueue: Empty
+SleepList: 5(program5)
+IOWait List: Empty
+
+[592 Cycle] Scheduled Process: None
+Running Process: Process#9 running code program9 line 32(op 3, arg 0)
+RunQueue: Empty
+SleepList: 5(program5)
+IOWait List: Empty
+
+[593 Cycle] Scheduled Process: None
+Running Process: Process#9 running code program9 line 33(op 3, arg 0)
+RunQueue: Empty
+SleepList: 5(program5)
+IOWait List: Empty
+
+[594 Cycle] Scheduled Process: None
+Running Process: Process#9 running code program9 line 34(op 3, arg 0)
+RunQueue: Empty
+SleepList: 5(program5)
+IOWait List: Empty
+
+[595 Cycle] Scheduled Process: None
+Running Process: Process#9 running code program9 line 35(op 3, arg 0)
+RunQueue: Empty
+SleepList: 5(program5)
+IOWait List: Empty
+
+[596 Cycle] Scheduled Process: None
+Running Process: Process#9 running code program9 line 36(op 3, arg 0)
+RunQueue: Empty
+SleepList: 5(program5)
+IOWait List: Empty
+
+[597 Cycle] Scheduled Process: None
+Running Process: Process#9 running code program9 line 37(op 3, arg 0)
+RunQueue: Empty
+SleepList: 5(program5)
+IOWait List: Empty
+
+[598 Cycle] Scheduled Process: None
+Running Process: Process#9 running code program9 line 38(op 3, arg 0)
+RunQueue: Empty
+SleepList: 5(program5)
+IOWait List: Empty
+
+[599 Cycle] Scheduled Process: None
+Running Process: Process#9 running code program9 line 39(op 3, arg 0)
+RunQueue: Empty
+SleepList: 5(program5)
+IOWait List: Empty
+
+[600 Cycle] Scheduled Process: None
+Running Process: Process#9 running code program9 line 40(op 4, arg 14)
+RunQueue: 5(program5)
+SleepList: 9(program9)
+IOWait List: Empty
+
+[601 Cycle] Scheduled Process: 5 program5
+Running Process: Process#5 running code program5 line 57(op 3, arg 0)
+RunQueue: Empty
+SleepList: 9(program9)
+IOWait List: Empty
+
+[602 Cycle] Scheduled Process: None
+Running Process: Process#5 running code program5 line 58(op 3, arg 0)
+RunQueue: Empty
+SleepList: 9(program9)
+IOWait List: Empty
+
+[603 Cycle] Scheduled Process: None
+Running Process: None
+RunQueue: Empty
+SleepList: 9(program9)
+IOWait List: Empty
+
+[604 Cycle] Scheduled Process: None
+Running Process: None
+RunQueue: Empty
+SleepList: 9(program9)
+IOWait List: Empty
+
+[605 Cycle] Scheduled Process: None
+Running Process: None
+RunQueue: Empty
+SleepList: 9(program9)
+IOWait List: Empty
+
+[606 Cycle] Scheduled Process: None
+Running Process: None
+RunQueue: Empty
+SleepList: 9(program9)
+IOWait List: Empty
+
+[607 Cycle] Scheduled Process: None
+Running Process: None
+RunQueue: Empty
+SleepList: 9(program9)
+IOWait List: Empty
+
+[608 Cycle] Scheduled Process: None
+Running Process: None
+RunQueue: Empty
+SleepList: 9(program9)
+IOWait List: Empty
+
+[609 Cycle] Scheduled Process: None
+Running Process: None
+RunQueue: Empty
+SleepList: 9(program9)
+IOWait List: Empty
+
+[610 Cycle] Scheduled Process: None
+Running Process: None
+RunQueue: Empty
+SleepList: 9(program9)
+IOWait List: Empty
+
+[611 Cycle] Scheduled Process: None
+Running Process: None
+RunQueue: Empty
+SleepList: 9(program9)
+IOWait List: Empty
+
+[612 Cycle] Scheduled Process: None
+Running Process: None
+RunQueue: Empty
+SleepList: 9(program9)
+IOWait List: Empty
+
+[613 Cycle] Scheduled Process: None
+Running Process: None
+RunQueue: Empty
+SleepList: 9(program9)
+IOWait List: Empty
+
+[614 Cycle] Scheduled Process: 9 program9
+Running Process: Process#9 running code program9 line 41(op 3, arg 0)
+RunQueue: Empty
+SleepList: Empty
+IOWait List: Empty
+
+[615 Cycle] Scheduled Process: None
+Running Process: Process#9 running code program9 line 42(op 3, arg 0)
+RunQueue: Empty
+SleepList: Empty
+IOWait List: Empty
+
+[616 Cycle] Scheduled Process: None
+Running Process: Process#9 running code program9 line 43(op 3, arg 0)
+RunQueue: Empty
+SleepList: Empty
+IOWait List: Empty
+
+[617 Cycle] Scheduled Process: None
+Running Process: Process#9 running code program9 line 44(op 3, arg 0)
+RunQueue: Empty
+SleepList: Empty
+IOWait List: Empty
+
+[618 Cycle] Scheduled Process: None
+Running Process: Process#9 running code program9 line 45(op 3, arg 0)
+RunQueue: Empty
+SleepList: Empty
+IOWait List: Empty
+
+[619 Cycle] Scheduled Process: None
+Running Process: Process#9 running code program9 line 46(op 3, arg 0)
+RunQueue: Empty
+SleepList: Empty
+IOWait List: Empty
+
+[620 Cycle] Scheduled Process: None
+Running Process: Process#9 running code program9 line 47(op 3, arg 0)
+RunQueue: Empty
+SleepList: Empty
+IOWait List: Empty
+
+[621 Cycle] Scheduled Process: None
+Running Process: Process#9 running code program9 line 48(op 3, arg 0)
+RunQueue: Empty
+SleepList: Empty
+IOWait List: Empty
+
+[622 Cycle] Scheduled Process: None
+Running Process: Process#9 running code program9 line 49(op 3, arg 0)
+RunQueue: Empty
+SleepList: Empty
+IOWait List: Empty
+
+[623 Cycle] Scheduled Process: None
+Running Process: Process#9 running code program9 line 50(op 3, arg 0)
+RunQueue: Empty
+SleepList: Empty
+IOWait List: Empty
+
+[624 Cycle] Scheduled Process: None
+Running Process: Process#9 running code program9 line 51(op 3, arg 0)
+RunQueue: Empty
+SleepList: Empty
+IOWait List: Empty
+
+[625 Cycle] Scheduled Process: None
+Running Process: Process#9 running code program9 line 52(op 3, arg 0)
+RunQueue: Empty
+SleepList: Empty
+IOWait List: Empty
+
+[626 Cycle] Scheduled Process: None
+Running Process: Process#9 running code program9 line 53(op 4, arg 18)
+RunQueue: Empty
+SleepList: 9(program9)
+IOWait List: Empty
+
+[627 Cycle] Scheduled Process: None
+Running Process: None
+RunQueue: Empty
+SleepList: 9(program9)
+IOWait List: Empty
+
+[628 Cycle] Scheduled Process: None
+Running Process: None
+RunQueue: Empty
+SleepList: 9(program9)
+IOWait List: Empty
+
+[629 Cycle] Scheduled Process: None
+Running Process: None
+RunQueue: Empty
+SleepList: 9(program9)
+IOWait List: Empty
+
+[630 Cycle] Scheduled Process: None
+Running Process: None
+RunQueue: Empty
+SleepList: 9(program9)
+IOWait List: Empty
+
+[631 Cycle] Scheduled Process: None
+Running Process: None
+RunQueue: Empty
+SleepList: 9(program9)
+IOWait List: Empty
+
+[632 Cycle] Scheduled Process: None
+Running Process: None
+RunQueue: Empty
+SleepList: 9(program9)
+IOWait List: Empty
+
+[633 Cycle] Scheduled Process: None
+Running Process: None
+RunQueue: Empty
+SleepList: 9(program9)
+IOWait List: Empty
+
+[634 Cycle] Scheduled Process: None
+Running Process: None
+RunQueue: Empty
+SleepList: 9(program9)
+IOWait List: Empty
+
+[635 Cycle] Scheduled Process: None
+Running Process: None
+RunQueue: Empty
+SleepList: 9(program9)
+IOWait List: Empty
+
+[636 Cycle] Scheduled Process: None
+Running Process: None
+RunQueue: Empty
+SleepList: 9(program9)
+IOWait List: Empty
+
+[637 Cycle] Scheduled Process: None
+Running Process: None
+RunQueue: Empty
+SleepList: 9(program9)
+IOWait List: Empty
+
+[638 Cycle] Scheduled Process: None
+Running Process: None
+RunQueue: Empty
+SleepList: 9(program9)
+IOWait List: Empty
+
+[639 Cycle] Scheduled Process: None
+Running Process: None
+RunQueue: Empty
+SleepList: 9(program9)
+IOWait List: Empty
+
+[640 Cycle] Scheduled Process: None
+Running Process: None
+RunQueue: Empty
+SleepList: 9(program9)
+IOWait List: Empty
+
+[641 Cycle] Scheduled Process: None
+Running Process: None
+RunQueue: Empty
+SleepList: 9(program9)
+IOWait List: Empty
+
+[642 Cycle] Scheduled Process: None
+Running Process: None
+RunQueue: Empty
+SleepList: 9(program9)
+IOWait List: Empty
+
+[643 Cycle] Scheduled Process: None
+Running Process: None
+RunQueue: Empty
+SleepList: 9(program9)
+IOWait List: Empty
+
+[644 Cycle] Scheduled Process: 9 program9
+Running Process: Process#9 running code program9 line 54(op 3, arg 0)
+RunQueue: Empty
+SleepList: Empty
+IOWait List: Empty
+
+[645 Cycle] Scheduled Process: None
+Running Process: Process#9 running code program9 line 55(op 3, arg 0)
+RunQueue: Empty
+SleepList: Empty
+IOWait List: Empty
+
+[646 Cycle] Scheduled Process: None
+Running Process: Process#9 running code program9 line 56(op 3, arg 0)
+RunQueue: Empty
+SleepList: Empty
+IOWait List: Empty
+
+[647 Cycle] Scheduled Process: None
+Running Process: Process#9 running code program9 line 57(op 3, arg 0)
+RunQueue: Empty
+SleepList: Empty
+IOWait List: Empty
+
+[648 Cycle] Scheduled Process: None
+Running Process: Process#9 running code program9 line 58(op 3, arg 0)
+RunQueue: Empty
+SleepList: Empty
+IOWait List: Empty
+
+[649 Cycle] Scheduled Process: None
+Running Process: Process#9 running code program9 line 59(op 3, arg 0)
+RunQueue: Empty
+SleepList: Empty
+IOWait List: Empty
+
+[650 Cycle] Scheduled Process: None
+Running Process: Process#9 running code program9 line 60(op 3, arg 0)
+RunQueue: Empty
+SleepList: Empty
+IOWait List: Empty
+
+[651 Cycle] Scheduled Process: None
+Running Process: Process#9 running code program9 line 61(op 3, arg 0)
+RunQueue: Empty
+SleepList: Empty
+IOWait List: Empty
+
+[652 Cycle] Scheduled Process: None
+Running Process: Process#9 running code program9 line 62(op 3, arg 0)
+RunQueue: Empty
+SleepList: Empty
+IOWait List: Empty
+
+[653 Cycle] Scheduled Process: None
+Running Process: Process#9 running code program9 line 63(op 3, arg 0)
+RunQueue: Empty
+SleepList: Empty
+IOWait List: Empty
+
+[654 Cycle] Scheduled Process: None
+Running Process: Process#9 running code program9 line 64(op 3, arg 0)
+RunQueue: Empty
+SleepList: Empty
+IOWait List: Empty
+
+[655 Cycle] Scheduled Process: None
+Running Process: Process#9 running code program9 line 65(op 3, arg 0)
+RunQueue: Empty
+SleepList: Empty
+IOWait List: Empty
+
+[656 Cycle] Scheduled Process: None
+Running Process: Process#9 running code program9 line 66(op 4, arg 11)
+RunQueue: Empty
+SleepList: 9(program9)
+IOWait List: Empty
+
+[657 Cycle] Scheduled Process: None
+Running Process: None
+RunQueue: Empty
+SleepList: 9(program9)
+IOWait List: Empty
+
+[658 Cycle] Scheduled Process: None
+Running Process: None
+RunQueue: Empty
+SleepList: 9(program9)
+IOWait List: Empty
+
+[659 Cycle] Scheduled Process: None
+Running Process: None
+RunQueue: Empty
+SleepList: 9(program9)
+IOWait List: Empty
+
+[660 Cycle] Scheduled Process: None
+Running Process: None
+RunQueue: Empty
+SleepList: 9(program9)
+IOWait List: Empty
+
+[661 Cycle] Scheduled Process: None
+Running Process: None
+RunQueue: Empty
+SleepList: 9(program9)
+IOWait List: Empty
+
+[662 Cycle] Scheduled Process: None
+Running Process: None
+RunQueue: Empty
+SleepList: 9(program9)
+IOWait List: Empty
+
+[663 Cycle] Scheduled Process: None
+Running Process: None
+RunQueue: Empty
+SleepList: 9(program9)
+IOWait List: Empty
+
+[664 Cycle] Scheduled Process: None
+Running Process: None
+RunQueue: Empty
+SleepList: 9(program9)
+IOWait List: Empty
+
+[665 Cycle] Scheduled Process: None
+Running Process: None
+RunQueue: Empty
+SleepList: 9(program9)
+IOWait List: Empty
+
+[666 Cycle] Scheduled Process: None
+Running Process: None
+RunQueue: Empty
+SleepList: 9(program9)
+IOWait List: Empty
+
+[667 Cycle] Scheduled Process: 9 program9
+Running Process: Process#9 running code program9 line 67(op 3, arg 0)
+RunQueue: Empty
+SleepList: Empty
+IOWait List: Empty
+
+[668 Cycle] Scheduled Process: None
+Running Process: Process#9 running code program9 line 68(op 3, arg 0)
+RunQueue: Empty
+SleepList: Empty
+IOWait List: Empty
+
+[669 Cycle] Scheduled Process: None
+Running Process: Process#9 running code program9 line 69(op 3, arg 0)
+RunQueue: Empty
+SleepList: Empty
+IOWait List: Empty
+
+[670 Cycle] Scheduled Process: None
+Running Process: Process#9 running code program9 line 70(op 3, arg 0)
+RunQueue: Empty
+SleepList: Empty
+IOWait List: Empty
+
+[671 Cycle] Scheduled Process: None
+Running Process: Process#9 running code program9 line 71(op 3, arg 0)
+RunQueue: Empty
+SleepList: Empty
+IOWait List: Empty
+
+[672 Cycle] Scheduled Process: None
+Running Process: Process#9 running code program9 line 72(op 3, arg 0)
+RunQueue: Empty
+SleepList: Empty
+IOWait List: Empty
+
+[673 Cycle] Scheduled Process: None
+Running Process: Process#9 running code program9 line 73(op 3, arg 0)
+RunQueue: Empty
+SleepList: Empty
+IOWait List: Empty
+
+[674 Cycle] Scheduled Process: None
+Running Process: Process#9 running code program9 line 74(op 3, arg 0)
+RunQueue: Empty
+SleepList: Empty
+IOWait List: Empty
+
+[675 Cycle] Scheduled Process: None
+Running Process: Process#9 running code program9 line 75(op 3, arg 0)
+RunQueue: Empty
+SleepList: Empty
+IOWait List: Empty
+
+[676 Cycle] Scheduled Process: None
+Running Process: Process#9 running code program9 line 76(op 3, arg 0)
+RunQueue: Empty
+SleepList: Empty
+IOWait List: Empty
+
+[677 Cycle] Scheduled Process: None
+Running Process: Process#9 running code program9 line 77(op 3, arg 0)
+RunQueue: Empty
+SleepList: Empty
+IOWait List: Empty
+
+[678 Cycle] Scheduled Process: None
+Running Process: Process#9 running code program9 line 78(op 3, arg 0)
+RunQueue: Empty
+SleepList: Empty
+IOWait List: Empty
+
+[679 Cycle] Scheduled Process: None
+Running Process: Process#9 running code program9 line 79(op 4, arg 20)
+RunQueue: Empty
+SleepList: 9(program9)
+IOWait List: Empty
+
+[680 Cycle] Scheduled Process: None
+Running Process: None
+RunQueue: Empty
+SleepList: 9(program9)
+IOWait List: Empty
+
+[681 Cycle] Scheduled Process: None
+Running Process: None
+RunQueue: Empty
+SleepList: 9(program9)
+IOWait List: Empty
+
+[682 Cycle] Scheduled Process: None
+Running Process: None
+RunQueue: Empty
+SleepList: 9(program9)
+IOWait List: Empty
+
+[683 Cycle] Scheduled Process: None
+Running Process: None
+RunQueue: Empty
+SleepList: 9(program9)
+IOWait List: Empty
+
+[684 Cycle] Scheduled Process: None
+Running Process: None
+RunQueue: Empty
+SleepList: 9(program9)
+IOWait List: Empty
+
+[685 Cycle] Scheduled Process: None
+Running Process: None
+RunQueue: Empty
+SleepList: 9(program9)
+IOWait List: Empty
+
+[686 Cycle] Scheduled Process: None
+Running Process: None
+RunQueue: Empty
+SleepList: 9(program9)
+IOWait List: Empty
+
+[687 Cycle] Scheduled Process: None
+Running Process: None
+RunQueue: Empty
+SleepList: 9(program9)
+IOWait List: Empty
+
+[688 Cycle] Scheduled Process: None
+Running Process: None
+RunQueue: Empty
+SleepList: 9(program9)
+IOWait List: Empty
+
+[689 Cycle] Scheduled Process: None
+Running Process: None
+RunQueue: Empty
+SleepList: 9(program9)
+IOWait List: Empty
+
+[690 Cycle] Scheduled Process: None
+Running Process: None
+RunQueue: Empty
+SleepList: 9(program9)
+IOWait List: Empty
+
+[691 Cycle] Scheduled Process: None
+Running Process: None
+RunQueue: Empty
+SleepList: 9(program9)
+IOWait List: Empty
+
+[692 Cycle] Scheduled Process: None
+Running Process: None
+RunQueue: Empty
+SleepList: 9(program9)
+IOWait List: Empty
+
+[693 Cycle] Scheduled Process: None
+Running Process: None
+RunQueue: Empty
+SleepList: 9(program9)
+IOWait List: Empty
+
+[694 Cycle] Scheduled Process: None
+Running Process: None
+RunQueue: Empty
+SleepList: 9(program9)
+IOWait List: Empty
+
+[695 Cycle] Scheduled Process: None
+Running Process: None
+RunQueue: Empty
+SleepList: 9(program9)
+IOWait List: Empty
+
+[696 Cycle] Scheduled Process: None
+Running Process: None
+RunQueue: Empty
+SleepList: 9(program9)
+IOWait List: Empty
+
+[697 Cycle] Scheduled Process: None
+Running Process: None
+RunQueue: Empty
+SleepList: 9(program9)
+IOWait List: Empty
+
+[698 Cycle] Scheduled Process: None
+Running Process: None
+RunQueue: Empty
+SleepList: 9(program9)
+IOWait List: Empty
+
+[699 Cycle] Scheduled Process: 9 program9
+Running Process: Process#9 running code program9 line 80(op 3, arg 0)
+RunQueue: Empty
+SleepList: Empty
+IOWait List: Empty
+
+[700 Cycle] Scheduled Process: None
+Running Process: Process#9 running code program9 line 81(op 3, arg 0)
+RunQueue: Empty
+SleepList: Empty
+IOWait List: Empty
+
+[701 Cycle] Scheduled Process: None
+Running Process: Process#9 running code program9 line 82(op 3, arg 0)
+RunQueue: Empty
+SleepList: Empty
+IOWait List: Empty
+
+[702 Cycle] Scheduled Process: None
+Running Process: Process#9 running code program9 line 83(op 3, arg 0)
+RunQueue: Empty
+SleepList: Empty
+IOWait List: Empty
+
+[703 Cycle] Scheduled Process: None
+Running Process: Process#9 running code program9 line 84(op 3, arg 0)
+RunQueue: Empty
+SleepList: Empty
+IOWait List: Empty
+
+[704 Cycle] Scheduled Process: None
+Running Process: Process#9 running code program9 line 85(op 3, arg 0)
+RunQueue: Empty
+SleepList: Empty
+IOWait List: Empty
+
+[705 Cycle] Scheduled Process: None
+Running Process: Process#9 running code program9 line 86(op 3, arg 0)
+RunQueue: Empty
+SleepList: Empty
+IOWait List: Empty
+
+[706 Cycle] Scheduled Process: None
+Running Process: Process#9 running code program9 line 87(op 3, arg 0)
+RunQueue: Empty
+SleepList: Empty
+IOWait List: Empty
+
+[707 Cycle] Scheduled Process: None
+Running Process: Process#9 running code program9 line 88(op 3, arg 0)
+RunQueue: Empty
+SleepList: Empty
+IOWait List: Empty
+
+[708 Cycle] Scheduled Process: None
+Running Process: Process#9 running code program9 line 89(op 3, arg 0)
+RunQueue: Empty
+SleepList: Empty
+IOWait List: Empty
+
+[709 Cycle] Scheduled Process: None
+Running Process: Process#9 running code program9 line 90(op 3, arg 0)
+RunQueue: Empty
+SleepList: Empty
+IOWait List: Empty
+
+[710 Cycle] Scheduled Process: None
+Running Process: Process#9 running code program9 line 91(op 3, arg 0)
+RunQueue: Empty
+SleepList: Empty
+IOWait List: Empty
+
+[711 Cycle] Scheduled Process: None
+Running Process: Process#9 running code program9 line 92(op 4, arg 5)
+RunQueue: Empty
+SleepList: 9(program9)
+IOWait List: Empty
+
+[712 Cycle] Scheduled Process: None
+Running Process: None
+RunQueue: Empty
+SleepList: 9(program9)
+IOWait List: Empty
+
+[713 Cycle] Scheduled Process: None
+Running Process: None
+RunQueue: Empty
+SleepList: 9(program9)
+IOWait List: Empty
+
+[714 Cycle] Scheduled Process: None
+Running Process: None
+RunQueue: Empty
+SleepList: 9(program9)
+IOWait List: Empty
+
+[715 Cycle] Scheduled Process: None
+Running Process: None
+RunQueue: Empty
+SleepList: 9(program9)
+IOWait List: Empty
+
+[716 Cycle] Scheduled Process: 9 program9
+Running Process: Process#9 running code program9 line 93(op 3, arg 0)
+RunQueue: Empty
+SleepList: Empty
+IOWait List: Empty
+
+[717 Cycle] Scheduled Process: None
+Running Process: Process#9 running code program9 line 94(op 3, arg 0)
+RunQueue: Empty
+SleepList: Empty
+IOWait List: Empty
+
+[718 Cycle] Scheduled Process: None
+Running Process: Process#9 running code program9 line 95(op 3, arg 0)
+RunQueue: Empty
+SleepList: Empty
+IOWait List: Empty
+
+[719 Cycle] Scheduled Process: None
+Running Process: Process#9 running code program9 line 96(op 3, arg 0)
+RunQueue: Empty
+SleepList: Empty
+IOWait List: Empty
+
+[720 Cycle] Scheduled Process: None
+Running Process: Process#9 running code program9 line 97(op 3, arg 0)
+RunQueue: Empty
+SleepList: Empty
+IOWait List: Empty
+
