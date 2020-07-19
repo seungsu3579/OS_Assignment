@@ -1,8 +1,8 @@
 # 2020-1 OS Assignment
 
-2nd `#CNN` `#Multiprocessing` `#Multithreading`
-3rd `#CPU_scheduling` `#Page_Replacement_Algorithm`
-4th `#ext2_File_System`
+- 2nd `#CNN` `#Multiprocessing` `#Multithreading`
+- 3rd `#CPU_scheduling` `#Page_Replacement_Algorithm`
+- 4th `#ext2_File_System`
 
 ### :bookmark_tabs: 운영체제 과제 스펙
 
